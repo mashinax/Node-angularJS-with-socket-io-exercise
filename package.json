@@ -1,0 +1,19 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "test project for antena boxes",
+  "main": "server.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "antena",
+    "box"
+  ],
+  "author": "David Markovitch",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  }
+}
