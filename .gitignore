@@ -1,0 +1,10 @@
+#Albert - added .gitignore
+#you can write remarks like this here....
+#a .gitignore file can be placed in whatever folder you want
+#the below states, that all log files will be ignored
+#to keep your repo slim - always .gitignore unecesary files - check the i-net for common file extensions to be ignored 
+#it's a good practice to NOT include node_modules in the git repo
+#but to run: [npm install] to update the modules
+*.log
+node_modules/
+.tern-port
