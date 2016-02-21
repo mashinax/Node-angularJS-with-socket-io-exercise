@@ -1,0 +1,7938 @@
+[
+  {
+    "_id": "56ca2d3de41995c6dd23fd87",
+    "index": 0,
+    "current_status": "error",
+    "country": "UK",
+    "region": "center",
+    "registered": "2014-01-10T07:06:25 -02:00",
+    "guid": "53481f7d-5c8f-414c-bd36-4e1af894b583",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "company": "Verizon",
+    "latitude": -55.434403,
+    "longitude": 70.149444,
+    "chart_data": [
+      {
+        "y_noise": 18.4656,
+        "x_time": 0
+      },
+      {
+        "y_noise": 16.3095,
+        "x_time": 1
+      },
+      {
+        "y_noise": 17.3582,
+        "x_time": 2
+      },
+      {
+        "y_noise": 17.3604,
+        "x_time": 3
+      },
+      {
+        "y_noise": 17.3688,
+        "x_time": 4
+      },
+      {
+        "y_noise": 18.5112,
+        "x_time": 5
+      },
+      {
+        "y_noise": 19.2899,
+        "x_time": 6
+      },
+      {
+        "y_noise": 19.3342,
+        "x_time": 7
+      },
+      {
+        "y_noise": 18.0725,
+        "x_time": 8
+      },
+      {
+        "y_noise": 17.277,
+        "x_time": 9
+      },
+      {
+        "y_noise": 19.5724,
+        "x_time": 10
+      },
+      {
+        "y_noise": 18.7357,
+        "x_time": 11
+      },
+      {
+        "y_noise": 15.4764,
+        "x_time": 12
+      },
+      {
+        "y_noise": 15.0854,
+        "x_time": 13
+      },
+      {
+        "y_noise": 15.2646,
+        "x_time": 14
+      },
+      {
+        "y_noise": 16.3941,
+        "x_time": 15
+      },
+      {
+        "y_noise": 18.1992,
+        "x_time": 16
+      },
+      {
+        "y_noise": 18.1349,
+        "x_time": 17
+      },
+      {
+        "y_noise": 19.0178,
+        "x_time": 18
+      },
+      {
+        "y_noise": 17.4282,
+        "x_time": 19
+      },
+      {
+        "y_noise": 15.028,
+        "x_time": 20
+      },
+      {
+        "y_noise": 15.5058,
+        "x_time": 21
+      },
+      {
+        "y_noise": 15.8989,
+        "x_time": 22
+      },
+      {
+        "y_noise": 19.5025,
+        "x_time": 23
+      },
+      {
+        "y_noise": 17.9815,
+        "x_time": 24
+      },
+      {
+        "y_noise": 16.7724,
+        "x_time": 25
+      },
+      {
+        "y_noise": 15.3842,
+        "x_time": 26
+      },
+      {
+        "y_noise": 19.0485,
+        "x_time": 27
+      },
+      {
+        "y_noise": 17.2338,
+        "x_time": 28
+      },
+      {
+        "y_noise": 19.1994,
+        "x_time": 29
+      },
+      {
+        "y_noise": 17.3731,
+        "x_time": 30
+      },
+      {
+        "y_noise": 16.0496,
+        "x_time": 31
+      },
+      {
+        "y_noise": 16.5516,
+        "x_time": 32
+      },
+      {
+        "y_noise": 17.7839,
+        "x_time": 33
+      },
+      {
+        "y_noise": 18.7875,
+        "x_time": 34
+      },
+      {
+        "y_noise": 15.8317,
+        "x_time": 35
+      },
+      {
+        "y_noise": 16.8,
+        "x_time": 36
+      },
+      {
+        "y_noise": 16.721,
+        "x_time": 37
+      },
+      {
+        "y_noise": 18.6062,
+        "x_time": 38
+      },
+      {
+        "y_noise": 16.7085,
+        "x_time": 39
+      },
+      {
+        "y_noise": 18.3361,
+        "x_time": 40
+      },
+      {
+        "y_noise": 15.8397,
+        "x_time": 41
+      },
+      {
+        "y_noise": 16.2836,
+        "x_time": 42
+      },
+      {
+        "y_noise": 16.1739,
+        "x_time": 43
+      },
+      {
+        "y_noise": 17.9312,
+        "x_time": 44
+      },
+      {
+        "y_noise": 19.3496,
+        "x_time": 45
+      },
+      {
+        "y_noise": 16.5975,
+        "x_time": 46
+      },
+      {
+        "y_noise": 15.6963,
+        "x_time": 47
+      },
+      {
+        "y_noise": 16.7786,
+        "x_time": 48
+      },
+      {
+        "y_noise": 16.0056,
+        "x_time": 49
+      },
+      {
+        "y_noise": 18.1943,
+        "x_time": 50
+      },
+      {
+        "y_noise": 19.819,
+        "x_time": 51
+      },
+      {
+        "y_noise": 15.8309,
+        "x_time": 52
+      },
+      {
+        "y_noise": 17.6402,
+        "x_time": 53
+      },
+      {
+        "y_noise": 17.3407,
+        "x_time": 54
+      },
+      {
+        "y_noise": 17.2029,
+        "x_time": 55
+      },
+      {
+        "y_noise": 17.1355,
+        "x_time": 56
+      },
+      {
+        "y_noise": 17.0075,
+        "x_time": 57
+      },
+      {
+        "y_noise": 19.7978,
+        "x_time": 58
+      },
+      {
+        "y_noise": 17.5774,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3d01bb080bb691277e",
+    "index": 1,
+    "current_status": "error",
+    "country": "CA",
+    "region": "north",
+    "registered": "2014-01-09T03:10:31 -02:00",
+    "guid": "00322299-80e9-4230-9260-e45c9fb6fa7c",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "company": "AT&T",
+    "latitude": -87.323066,
+    "longitude": -130.568202,
+    "chart_data": [
+      {
+        "y_noise": 19.7695,
+        "x_time": 0
+      },
+      {
+        "y_noise": 18.2494,
+        "x_time": 1
+      },
+      {
+        "y_noise": 18.1634,
+        "x_time": 2
+      },
+      {
+        "y_noise": 17.2948,
+        "x_time": 3
+      },
+      {
+        "y_noise": 19.2478,
+        "x_time": 4
+      },
+      {
+        "y_noise": 15.1952,
+        "x_time": 5
+      },
+      {
+        "y_noise": 15.7615,
+        "x_time": 6
+      },
+      {
+        "y_noise": 17.5136,
+        "x_time": 7
+      },
+      {
+        "y_noise": 19.7189,
+        "x_time": 8
+      },
+      {
+        "y_noise": 15.0231,
+        "x_time": 9
+      },
+      {
+        "y_noise": 17.4111,
+        "x_time": 10
+      },
+      {
+        "y_noise": 17.0028,
+        "x_time": 11
+      },
+      {
+        "y_noise": 19.4157,
+        "x_time": 12
+      },
+      {
+        "y_noise": 18.2192,
+        "x_time": 13
+      },
+      {
+        "y_noise": 18.6804,
+        "x_time": 14
+      },
+      {
+        "y_noise": 18.3246,
+        "x_time": 15
+      },
+      {
+        "y_noise": 18.4977,
+        "x_time": 16
+      },
+      {
+        "y_noise": 15.0435,
+        "x_time": 17
+      },
+      {
+        "y_noise": 19.355,
+        "x_time": 18
+      },
+      {
+        "y_noise": 18.4692,
+        "x_time": 19
+      },
+      {
+        "y_noise": 16.7198,
+        "x_time": 20
+      },
+      {
+        "y_noise": 17.2281,
+        "x_time": 21
+      },
+      {
+        "y_noise": 17.1097,
+        "x_time": 22
+      },
+      {
+        "y_noise": 16.3807,
+        "x_time": 23
+      },
+      {
+        "y_noise": 16.7767,
+        "x_time": 24
+      },
+      {
+        "y_noise": 17.3202,
+        "x_time": 25
+      },
+      {
+        "y_noise": 18.3099,
+        "x_time": 26
+      },
+      {
+        "y_noise": 19.1841,
+        "x_time": 27
+      },
+      {
+        "y_noise": 17.7251,
+        "x_time": 28
+      },
+      {
+        "y_noise": 19.1117,
+        "x_time": 29
+      },
+      {
+        "y_noise": 15.7634,
+        "x_time": 30
+      },
+      {
+        "y_noise": 15.4013,
+        "x_time": 31
+      },
+      {
+        "y_noise": 16.213,
+        "x_time": 32
+      },
+      {
+        "y_noise": 17.3292,
+        "x_time": 33
+      },
+      {
+        "y_noise": 19.6136,
+        "x_time": 34
+      },
+      {
+        "y_noise": 15.5314,
+        "x_time": 35
+      },
+      {
+        "y_noise": 16.948,
+        "x_time": 36
+      },
+      {
+        "y_noise": 17.2639,
+        "x_time": 37
+      },
+      {
+        "y_noise": 17.3194,
+        "x_time": 38
+      },
+      {
+        "y_noise": 18.3126,
+        "x_time": 39
+      },
+      {
+        "y_noise": 16.9853,
+        "x_time": 40
+      },
+      {
+        "y_noise": 18.4523,
+        "x_time": 41
+      },
+      {
+        "y_noise": 16.0331,
+        "x_time": 42
+      },
+      {
+        "y_noise": 18.5196,
+        "x_time": 43
+      },
+      {
+        "y_noise": 15.58,
+        "x_time": 44
+      },
+      {
+        "y_noise": 19.2671,
+        "x_time": 45
+      },
+      {
+        "y_noise": 17.9172,
+        "x_time": 46
+      },
+      {
+        "y_noise": 17.2658,
+        "x_time": 47
+      },
+      {
+        "y_noise": 17.3194,
+        "x_time": 48
+      },
+      {
+        "y_noise": 18.4851,
+        "x_time": 49
+      },
+      {
+        "y_noise": 17.4524,
+        "x_time": 50
+      },
+      {
+        "y_noise": 16.1122,
+        "x_time": 51
+      },
+      {
+        "y_noise": 15.5805,
+        "x_time": 52
+      },
+      {
+        "y_noise": 18.2338,
+        "x_time": 53
+      },
+      {
+        "y_noise": 16.5646,
+        "x_time": 54
+      },
+      {
+        "y_noise": 18.2023,
+        "x_time": 55
+      },
+      {
+        "y_noise": 18.205,
+        "x_time": 56
+      },
+      {
+        "y_noise": 18.0045,
+        "x_time": 57
+      },
+      {
+        "y_noise": 16.8406,
+        "x_time": 58
+      },
+      {
+        "y_noise": 19.4712,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3dd44ccc7b47fc1ffa",
+    "index": 2,
+    "current_status": "ok",
+    "country": "US",
+    "region": "center",
+    "registered": "2014-01-20T10:25:21 -02:00",
+    "guid": "af534061-1bd2-4d7b-957b-77b8abc84a2e",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "company": "AT&T",
+    "latitude": -75.174272,
+    "longitude": -119.848029,
+    "chart_data": [
+      {
+        "y_noise": 19.3064,
+        "x_time": 0
+      },
+      {
+        "y_noise": 17.0988,
+        "x_time": 1
+      },
+      {
+        "y_noise": 15.7604,
+        "x_time": 2
+      },
+      {
+        "y_noise": 16.3719,
+        "x_time": 3
+      },
+      {
+        "y_noise": 17.698,
+        "x_time": 4
+      },
+      {
+        "y_noise": 19.6632,
+        "x_time": 5
+      },
+      {
+        "y_noise": 16.3073,
+        "x_time": 6
+      },
+      {
+        "y_noise": 17.9678,
+        "x_time": 7
+      },
+      {
+        "y_noise": 15.0085,
+        "x_time": 8
+      },
+      {
+        "y_noise": 18.5059,
+        "x_time": 9
+      },
+      {
+        "y_noise": 17.3499,
+        "x_time": 10
+      },
+      {
+        "y_noise": 18.5423,
+        "x_time": 11
+      },
+      {
+        "y_noise": 19.4896,
+        "x_time": 12
+      },
+      {
+        "y_noise": 15.5479,
+        "x_time": 13
+      },
+      {
+        "y_noise": 19.727,
+        "x_time": 14
+      },
+      {
+        "y_noise": 17.0133,
+        "x_time": 15
+      },
+      {
+        "y_noise": 18.6792,
+        "x_time": 16
+      },
+      {
+        "y_noise": 17.5311,
+        "x_time": 17
+      },
+      {
+        "y_noise": 15.1854,
+        "x_time": 18
+      },
+      {
+        "y_noise": 17.8395,
+        "x_time": 19
+      },
+      {
+        "y_noise": 16.6624,
+        "x_time": 20
+      },
+      {
+        "y_noise": 15.7274,
+        "x_time": 21
+      },
+      {
+        "y_noise": 16.3135,
+        "x_time": 22
+      },
+      {
+        "y_noise": 15.5422,
+        "x_time": 23
+      },
+      {
+        "y_noise": 17.9201,
+        "x_time": 24
+      },
+      {
+        "y_noise": 19.029,
+        "x_time": 25
+      },
+      {
+        "y_noise": 19.7513,
+        "x_time": 26
+      },
+      {
+        "y_noise": 19.8896,
+        "x_time": 27
+      },
+      {
+        "y_noise": 17.8109,
+        "x_time": 28
+      },
+      {
+        "y_noise": 19.9416,
+        "x_time": 29
+      },
+      {
+        "y_noise": 16.2822,
+        "x_time": 30
+      },
+      {
+        "y_noise": 15.8225,
+        "x_time": 31
+      },
+      {
+        "y_noise": 16.2131,
+        "x_time": 32
+      },
+      {
+        "y_noise": 19.1646,
+        "x_time": 33
+      },
+      {
+        "y_noise": 19.8279,
+        "x_time": 34
+      },
+      {
+        "y_noise": 16.009,
+        "x_time": 35
+      },
+      {
+        "y_noise": 19.0429,
+        "x_time": 36
+      },
+      {
+        "y_noise": 15.9566,
+        "x_time": 37
+      },
+      {
+        "y_noise": 19.8353,
+        "x_time": 38
+      },
+      {
+        "y_noise": 19.4175,
+        "x_time": 39
+      },
+      {
+        "y_noise": 19.9491,
+        "x_time": 40
+      },
+      {
+        "y_noise": 15.1554,
+        "x_time": 41
+      },
+      {
+        "y_noise": 17.7299,
+        "x_time": 42
+      },
+      {
+        "y_noise": 19.8368,
+        "x_time": 43
+      },
+      {
+        "y_noise": 16.0413,
+        "x_time": 44
+      },
+      {
+        "y_noise": 16.4314,
+        "x_time": 45
+      },
+      {
+        "y_noise": 16.5872,
+        "x_time": 46
+      },
+      {
+        "y_noise": 16.5975,
+        "x_time": 47
+      },
+      {
+        "y_noise": 16.4839,
+        "x_time": 48
+      },
+      {
+        "y_noise": 17.7953,
+        "x_time": 49
+      },
+      {
+        "y_noise": 19.762,
+        "x_time": 50
+      },
+      {
+        "y_noise": 17.3033,
+        "x_time": 51
+      },
+      {
+        "y_noise": 17.3769,
+        "x_time": 52
+      },
+      {
+        "y_noise": 19.9948,
+        "x_time": 53
+      },
+      {
+        "y_noise": 19.942,
+        "x_time": 54
+      },
+      {
+        "y_noise": 18.0732,
+        "x_time": 55
+      },
+      {
+        "y_noise": 19.4806,
+        "x_time": 56
+      },
+      {
+        "y_noise": 18.7882,
+        "x_time": 57
+      },
+      {
+        "y_noise": 19.1946,
+        "x_time": 58
+      },
+      {
+        "y_noise": 15.7953,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3d233386310b4c0052",
+    "index": 3,
+    "current_status": "ok",
+    "country": "UK",
+    "region": "east",
+    "registered": "2015-12-05T04:13:37 -02:00",
+    "guid": "4cf7e7db-7ecb-472d-9ea6-fb3aae0f7c6a",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "company": "Cellcom",
+    "latitude": 60.718555,
+    "longitude": 37.611383,
+    "chart_data": [
+      {
+        "y_noise": 19.1683,
+        "x_time": 0
+      },
+      {
+        "y_noise": 17.5571,
+        "x_time": 1
+      },
+      {
+        "y_noise": 19.5647,
+        "x_time": 2
+      },
+      {
+        "y_noise": 19.1914,
+        "x_time": 3
+      },
+      {
+        "y_noise": 17.8907,
+        "x_time": 4
+      },
+      {
+        "y_noise": 19.403,
+        "x_time": 5
+      },
+      {
+        "y_noise": 19.0856,
+        "x_time": 6
+      },
+      {
+        "y_noise": 15.4328,
+        "x_time": 7
+      },
+      {
+        "y_noise": 19.0378,
+        "x_time": 8
+      },
+      {
+        "y_noise": 19.3221,
+        "x_time": 9
+      },
+      {
+        "y_noise": 19.6299,
+        "x_time": 10
+      },
+      {
+        "y_noise": 19.5941,
+        "x_time": 11
+      },
+      {
+        "y_noise": 19.0159,
+        "x_time": 12
+      },
+      {
+        "y_noise": 19.4719,
+        "x_time": 13
+      },
+      {
+        "y_noise": 15.6839,
+        "x_time": 14
+      },
+      {
+        "y_noise": 18.1779,
+        "x_time": 15
+      },
+      {
+        "y_noise": 18.8089,
+        "x_time": 16
+      },
+      {
+        "y_noise": 16.7902,
+        "x_time": 17
+      },
+      {
+        "y_noise": 16.122,
+        "x_time": 18
+      },
+      {
+        "y_noise": 16.6445,
+        "x_time": 19
+      },
+      {
+        "y_noise": 19.5729,
+        "x_time": 20
+      },
+      {
+        "y_noise": 17.159,
+        "x_time": 21
+      },
+      {
+        "y_noise": 15.6503,
+        "x_time": 22
+      },
+      {
+        "y_noise": 17.2865,
+        "x_time": 23
+      },
+      {
+        "y_noise": 19.6499,
+        "x_time": 24
+      },
+      {
+        "y_noise": 15.8115,
+        "x_time": 25
+      },
+      {
+        "y_noise": 17.6805,
+        "x_time": 26
+      },
+      {
+        "y_noise": 19.8452,
+        "x_time": 27
+      },
+      {
+        "y_noise": 17.3415,
+        "x_time": 28
+      },
+      {
+        "y_noise": 16.5653,
+        "x_time": 29
+      },
+      {
+        "y_noise": 15.337,
+        "x_time": 30
+      },
+      {
+        "y_noise": 16.8198,
+        "x_time": 31
+      },
+      {
+        "y_noise": 19.4077,
+        "x_time": 32
+      },
+      {
+        "y_noise": 18.733,
+        "x_time": 33
+      },
+      {
+        "y_noise": 17.6297,
+        "x_time": 34
+      },
+      {
+        "y_noise": 18.1372,
+        "x_time": 35
+      },
+      {
+        "y_noise": 18.9248,
+        "x_time": 36
+      },
+      {
+        "y_noise": 16.9726,
+        "x_time": 37
+      },
+      {
+        "y_noise": 19.4147,
+        "x_time": 38
+      },
+      {
+        "y_noise": 15.8442,
+        "x_time": 39
+      },
+      {
+        "y_noise": 17.2237,
+        "x_time": 40
+      },
+      {
+        "y_noise": 18.2888,
+        "x_time": 41
+      },
+      {
+        "y_noise": 17.95,
+        "x_time": 42
+      },
+      {
+        "y_noise": 19.1838,
+        "x_time": 43
+      },
+      {
+        "y_noise": 17.2957,
+        "x_time": 44
+      },
+      {
+        "y_noise": 16.5513,
+        "x_time": 45
+      },
+      {
+        "y_noise": 17.2805,
+        "x_time": 46
+      },
+      {
+        "y_noise": 17.0866,
+        "x_time": 47
+      },
+      {
+        "y_noise": 16.1419,
+        "x_time": 48
+      },
+      {
+        "y_noise": 16.6122,
+        "x_time": 49
+      },
+      {
+        "y_noise": 15.8166,
+        "x_time": 50
+      },
+      {
+        "y_noise": 15.3842,
+        "x_time": 51
+      },
+      {
+        "y_noise": 18.4417,
+        "x_time": 52
+      },
+      {
+        "y_noise": 15.0748,
+        "x_time": 53
+      },
+      {
+        "y_noise": 18.8432,
+        "x_time": 54
+      },
+      {
+        "y_noise": 19.4316,
+        "x_time": 55
+      },
+      {
+        "y_noise": 15.7058,
+        "x_time": 56
+      },
+      {
+        "y_noise": 17.9583,
+        "x_time": 57
+      },
+      {
+        "y_noise": 17.8956,
+        "x_time": 58
+      },
+      {
+        "y_noise": 17.7886,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3dc748b6c2aeb8fec6",
+    "index": 4,
+    "current_status": "error",
+    "country": "CA",
+    "region": "east",
+    "registered": "2014-07-04T06:03:19 -03:00",
+    "guid": "36fc0774-3e9e-4327-9e25-138b565e858e",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "company": "Cellcom",
+    "latitude": -54.367199,
+    "longitude": 37.744632,
+    "chart_data": [
+      {
+        "y_noise": 17.5063,
+        "x_time": 0
+      },
+      {
+        "y_noise": 19.4893,
+        "x_time": 1
+      },
+      {
+        "y_noise": 15.7923,
+        "x_time": 2
+      },
+      {
+        "y_noise": 16.1622,
+        "x_time": 3
+      },
+      {
+        "y_noise": 15.9567,
+        "x_time": 4
+      },
+      {
+        "y_noise": 15.9341,
+        "x_time": 5
+      },
+      {
+        "y_noise": 19.2847,
+        "x_time": 6
+      },
+      {
+        "y_noise": 15.0857,
+        "x_time": 7
+      },
+      {
+        "y_noise": 15.9549,
+        "x_time": 8
+      },
+      {
+        "y_noise": 19.1717,
+        "x_time": 9
+      },
+      {
+        "y_noise": 17.6858,
+        "x_time": 10
+      },
+      {
+        "y_noise": 19.481,
+        "x_time": 11
+      },
+      {
+        "y_noise": 15.2156,
+        "x_time": 12
+      },
+      {
+        "y_noise": 18.2775,
+        "x_time": 13
+      },
+      {
+        "y_noise": 19.4996,
+        "x_time": 14
+      },
+      {
+        "y_noise": 15.1601,
+        "x_time": 15
+      },
+      {
+        "y_noise": 18.2361,
+        "x_time": 16
+      },
+      {
+        "y_noise": 17.5444,
+        "x_time": 17
+      },
+      {
+        "y_noise": 15.7899,
+        "x_time": 18
+      },
+      {
+        "y_noise": 19.3598,
+        "x_time": 19
+      },
+      {
+        "y_noise": 18.7886,
+        "x_time": 20
+      },
+      {
+        "y_noise": 15.5233,
+        "x_time": 21
+      },
+      {
+        "y_noise": 16.5974,
+        "x_time": 22
+      },
+      {
+        "y_noise": 19.8157,
+        "x_time": 23
+      },
+      {
+        "y_noise": 15.5538,
+        "x_time": 24
+      },
+      {
+        "y_noise": 16.768,
+        "x_time": 25
+      },
+      {
+        "y_noise": 15.7925,
+        "x_time": 26
+      },
+      {
+        "y_noise": 15.056,
+        "x_time": 27
+      },
+      {
+        "y_noise": 16.4411,
+        "x_time": 28
+      },
+      {
+        "y_noise": 16.5307,
+        "x_time": 29
+      },
+      {
+        "y_noise": 16.1547,
+        "x_time": 30
+      },
+      {
+        "y_noise": 16.0091,
+        "x_time": 31
+      },
+      {
+        "y_noise": 16.2993,
+        "x_time": 32
+      },
+      {
+        "y_noise": 19.762,
+        "x_time": 33
+      },
+      {
+        "y_noise": 17.0636,
+        "x_time": 34
+      },
+      {
+        "y_noise": 16.3995,
+        "x_time": 35
+      },
+      {
+        "y_noise": 16.1883,
+        "x_time": 36
+      },
+      {
+        "y_noise": 18.2915,
+        "x_time": 37
+      },
+      {
+        "y_noise": 17.5299,
+        "x_time": 38
+      },
+      {
+        "y_noise": 19.617,
+        "x_time": 39
+      },
+      {
+        "y_noise": 18.3475,
+        "x_time": 40
+      },
+      {
+        "y_noise": 16.0854,
+        "x_time": 41
+      },
+      {
+        "y_noise": 17.1385,
+        "x_time": 42
+      },
+      {
+        "y_noise": 16.8952,
+        "x_time": 43
+      },
+      {
+        "y_noise": 15.2889,
+        "x_time": 44
+      },
+      {
+        "y_noise": 19.8423,
+        "x_time": 45
+      },
+      {
+        "y_noise": 15.0992,
+        "x_time": 46
+      },
+      {
+        "y_noise": 15.2737,
+        "x_time": 47
+      },
+      {
+        "y_noise": 15.7797,
+        "x_time": 48
+      },
+      {
+        "y_noise": 19.4074,
+        "x_time": 49
+      },
+      {
+        "y_noise": 17.7726,
+        "x_time": 50
+      },
+      {
+        "y_noise": 19.4398,
+        "x_time": 51
+      },
+      {
+        "y_noise": 18.2862,
+        "x_time": 52
+      },
+      {
+        "y_noise": 15.7582,
+        "x_time": 53
+      },
+      {
+        "y_noise": 18.0104,
+        "x_time": 54
+      },
+      {
+        "y_noise": 17.431,
+        "x_time": 55
+      },
+      {
+        "y_noise": 15.6473,
+        "x_time": 56
+      },
+      {
+        "y_noise": 17.854,
+        "x_time": 57
+      },
+      {
+        "y_noise": 17.6338,
+        "x_time": 58
+      },
+      {
+        "y_noise": 17.1766,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3da99704af99c207c2",
+    "index": 5,
+    "current_status": "error",
+    "country": "UK",
+    "region": "center",
+    "registered": "2015-10-29T08:12:15 -02:00",
+    "guid": "debd85ce-e546-4e8d-8131-e9575679d0c3",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "company": "Verizon",
+    "latitude": 72.7867,
+    "longitude": 18.145433,
+    "chart_data": [
+      {
+        "y_noise": 18.9245,
+        "x_time": 0
+      },
+      {
+        "y_noise": 16.0204,
+        "x_time": 1
+      },
+      {
+        "y_noise": 19.9594,
+        "x_time": 2
+      },
+      {
+        "y_noise": 17.1595,
+        "x_time": 3
+      },
+      {
+        "y_noise": 19.0102,
+        "x_time": 4
+      },
+      {
+        "y_noise": 16.1494,
+        "x_time": 5
+      },
+      {
+        "y_noise": 15.4006,
+        "x_time": 6
+      },
+      {
+        "y_noise": 19.7988,
+        "x_time": 7
+      },
+      {
+        "y_noise": 15.1897,
+        "x_time": 8
+      },
+      {
+        "y_noise": 16.8714,
+        "x_time": 9
+      },
+      {
+        "y_noise": 19.6031,
+        "x_time": 10
+      },
+      {
+        "y_noise": 16.0913,
+        "x_time": 11
+      },
+      {
+        "y_noise": 17.8878,
+        "x_time": 12
+      },
+      {
+        "y_noise": 17.3097,
+        "x_time": 13
+      },
+      {
+        "y_noise": 18.9576,
+        "x_time": 14
+      },
+      {
+        "y_noise": 16.6967,
+        "x_time": 15
+      },
+      {
+        "y_noise": 15.5617,
+        "x_time": 16
+      },
+      {
+        "y_noise": 19.1423,
+        "x_time": 17
+      },
+      {
+        "y_noise": 17.4635,
+        "x_time": 18
+      },
+      {
+        "y_noise": 16.7838,
+        "x_time": 19
+      },
+      {
+        "y_noise": 15.0312,
+        "x_time": 20
+      },
+      {
+        "y_noise": 17.931,
+        "x_time": 21
+      },
+      {
+        "y_noise": 15.7682,
+        "x_time": 22
+      },
+      {
+        "y_noise": 17.4258,
+        "x_time": 23
+      },
+      {
+        "y_noise": 16.663,
+        "x_time": 24
+      },
+      {
+        "y_noise": 17.306,
+        "x_time": 25
+      },
+      {
+        "y_noise": 16.9049,
+        "x_time": 26
+      },
+      {
+        "y_noise": 15.0336,
+        "x_time": 27
+      },
+      {
+        "y_noise": 16.9828,
+        "x_time": 28
+      },
+      {
+        "y_noise": 19.3914,
+        "x_time": 29
+      },
+      {
+        "y_noise": 19.9196,
+        "x_time": 30
+      },
+      {
+        "y_noise": 19.6903,
+        "x_time": 31
+      },
+      {
+        "y_noise": 15.5304,
+        "x_time": 32
+      },
+      {
+        "y_noise": 19.4306,
+        "x_time": 33
+      },
+      {
+        "y_noise": 16.3961,
+        "x_time": 34
+      },
+      {
+        "y_noise": 19.2507,
+        "x_time": 35
+      },
+      {
+        "y_noise": 17.564,
+        "x_time": 36
+      },
+      {
+        "y_noise": 18.2176,
+        "x_time": 37
+      },
+      {
+        "y_noise": 18.424,
+        "x_time": 38
+      },
+      {
+        "y_noise": 15.7508,
+        "x_time": 39
+      },
+      {
+        "y_noise": 19.6171,
+        "x_time": 40
+      },
+      {
+        "y_noise": 18.8897,
+        "x_time": 41
+      },
+      {
+        "y_noise": 18.9252,
+        "x_time": 42
+      },
+      {
+        "y_noise": 19.0576,
+        "x_time": 43
+      },
+      {
+        "y_noise": 19.6667,
+        "x_time": 44
+      },
+      {
+        "y_noise": 17.8946,
+        "x_time": 45
+      },
+      {
+        "y_noise": 15.7199,
+        "x_time": 46
+      },
+      {
+        "y_noise": 17.3616,
+        "x_time": 47
+      },
+      {
+        "y_noise": 18.4115,
+        "x_time": 48
+      },
+      {
+        "y_noise": 15.9519,
+        "x_time": 49
+      },
+      {
+        "y_noise": 16.0951,
+        "x_time": 50
+      },
+      {
+        "y_noise": 16.522,
+        "x_time": 51
+      },
+      {
+        "y_noise": 15.1031,
+        "x_time": 52
+      },
+      {
+        "y_noise": 19.343,
+        "x_time": 53
+      },
+      {
+        "y_noise": 16.3159,
+        "x_time": 54
+      },
+      {
+        "y_noise": 19.008,
+        "x_time": 55
+      },
+      {
+        "y_noise": 16.7133,
+        "x_time": 56
+      },
+      {
+        "y_noise": 18.9045,
+        "x_time": 57
+      },
+      {
+        "y_noise": 16.0205,
+        "x_time": 58
+      },
+      {
+        "y_noise": 16.8453,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3dd99eb0b67ce27b1b",
+    "index": 6,
+    "current_status": "error",
+    "country": "US",
+    "region": "west",
+    "registered": "2015-04-06T02:22:08 -03:00",
+    "guid": "91215186-e5d0-452f-8e14-99c65882be24",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "company": "Cellcom",
+    "latitude": 25.014905,
+    "longitude": 147.273804,
+    "chart_data": [
+      {
+        "y_noise": 18.5804,
+        "x_time": 0
+      },
+      {
+        "y_noise": 16.6799,
+        "x_time": 1
+      },
+      {
+        "y_noise": 16.2829,
+        "x_time": 2
+      },
+      {
+        "y_noise": 18.509,
+        "x_time": 3
+      },
+      {
+        "y_noise": 19.4432,
+        "x_time": 4
+      },
+      {
+        "y_noise": 19.7021,
+        "x_time": 5
+      },
+      {
+        "y_noise": 17.7545,
+        "x_time": 6
+      },
+      {
+        "y_noise": 18.8524,
+        "x_time": 7
+      },
+      {
+        "y_noise": 15.5823,
+        "x_time": 8
+      },
+      {
+        "y_noise": 19.7663,
+        "x_time": 9
+      },
+      {
+        "y_noise": 19.7586,
+        "x_time": 10
+      },
+      {
+        "y_noise": 16.8041,
+        "x_time": 11
+      },
+      {
+        "y_noise": 16.9107,
+        "x_time": 12
+      },
+      {
+        "y_noise": 19.7836,
+        "x_time": 13
+      },
+      {
+        "y_noise": 16.8648,
+        "x_time": 14
+      },
+      {
+        "y_noise": 16.3633,
+        "x_time": 15
+      },
+      {
+        "y_noise": 18.4211,
+        "x_time": 16
+      },
+      {
+        "y_noise": 17.7968,
+        "x_time": 17
+      },
+      {
+        "y_noise": 15.915,
+        "x_time": 18
+      },
+      {
+        "y_noise": 19.6923,
+        "x_time": 19
+      },
+      {
+        "y_noise": 16.2255,
+        "x_time": 20
+      },
+      {
+        "y_noise": 17.3853,
+        "x_time": 21
+      },
+      {
+        "y_noise": 16.6998,
+        "x_time": 22
+      },
+      {
+        "y_noise": 15.8402,
+        "x_time": 23
+      },
+      {
+        "y_noise": 15.1186,
+        "x_time": 24
+      },
+      {
+        "y_noise": 18.742,
+        "x_time": 25
+      },
+      {
+        "y_noise": 19.284,
+        "x_time": 26
+      },
+      {
+        "y_noise": 17.9622,
+        "x_time": 27
+      },
+      {
+        "y_noise": 18.1748,
+        "x_time": 28
+      },
+      {
+        "y_noise": 17.8649,
+        "x_time": 29
+      },
+      {
+        "y_noise": 15.3809,
+        "x_time": 30
+      },
+      {
+        "y_noise": 18.9955,
+        "x_time": 31
+      },
+      {
+        "y_noise": 16.5487,
+        "x_time": 32
+      },
+      {
+        "y_noise": 16.6662,
+        "x_time": 33
+      },
+      {
+        "y_noise": 15.1829,
+        "x_time": 34
+      },
+      {
+        "y_noise": 19.0989,
+        "x_time": 35
+      },
+      {
+        "y_noise": 15.3421,
+        "x_time": 36
+      },
+      {
+        "y_noise": 15.1965,
+        "x_time": 37
+      },
+      {
+        "y_noise": 18.4159,
+        "x_time": 38
+      },
+      {
+        "y_noise": 18.9364,
+        "x_time": 39
+      },
+      {
+        "y_noise": 19.7619,
+        "x_time": 40
+      },
+      {
+        "y_noise": 19.8661,
+        "x_time": 41
+      },
+      {
+        "y_noise": 18.7913,
+        "x_time": 42
+      },
+      {
+        "y_noise": 19.3238,
+        "x_time": 43
+      },
+      {
+        "y_noise": 15.8564,
+        "x_time": 44
+      },
+      {
+        "y_noise": 17.9793,
+        "x_time": 45
+      },
+      {
+        "y_noise": 17.0812,
+        "x_time": 46
+      },
+      {
+        "y_noise": 17.6364,
+        "x_time": 47
+      },
+      {
+        "y_noise": 18.5618,
+        "x_time": 48
+      },
+      {
+        "y_noise": 15.857,
+        "x_time": 49
+      },
+      {
+        "y_noise": 19.1182,
+        "x_time": 50
+      },
+      {
+        "y_noise": 18.8933,
+        "x_time": 51
+      },
+      {
+        "y_noise": 17.4085,
+        "x_time": 52
+      },
+      {
+        "y_noise": 15.2661,
+        "x_time": 53
+      },
+      {
+        "y_noise": 18.3412,
+        "x_time": 54
+      },
+      {
+        "y_noise": 17.9506,
+        "x_time": 55
+      },
+      {
+        "y_noise": 15.3748,
+        "x_time": 56
+      },
+      {
+        "y_noise": 18.6288,
+        "x_time": 57
+      },
+      {
+        "y_noise": 19.1976,
+        "x_time": 58
+      },
+      {
+        "y_noise": 15.9466,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3dc28bdfc56cdb1578",
+    "index": 7,
+    "current_status": "error",
+    "country": "UK",
+    "region": "east",
+    "registered": "2015-03-04T08:59:58 -02:00",
+    "guid": "e8004168-6a4e-49fe-8e1b-c2c771c52d59",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "company": "Verizon",
+    "latitude": 85.293468,
+    "longitude": -22.108816,
+    "chart_data": [
+      {
+        "y_noise": 17.9741,
+        "x_time": 0
+      },
+      {
+        "y_noise": 18.5656,
+        "x_time": 1
+      },
+      {
+        "y_noise": 18.8693,
+        "x_time": 2
+      },
+      {
+        "y_noise": 19.8086,
+        "x_time": 3
+      },
+      {
+        "y_noise": 18.25,
+        "x_time": 4
+      },
+      {
+        "y_noise": 17.8032,
+        "x_time": 5
+      },
+      {
+        "y_noise": 16.9325,
+        "x_time": 6
+      },
+      {
+        "y_noise": 17.2706,
+        "x_time": 7
+      },
+      {
+        "y_noise": 18.5381,
+        "x_time": 8
+      },
+      {
+        "y_noise": 18.9828,
+        "x_time": 9
+      },
+      {
+        "y_noise": 17.3516,
+        "x_time": 10
+      },
+      {
+        "y_noise": 19.1082,
+        "x_time": 11
+      },
+      {
+        "y_noise": 19.2754,
+        "x_time": 12
+      },
+      {
+        "y_noise": 18.4821,
+        "x_time": 13
+      },
+      {
+        "y_noise": 19.6868,
+        "x_time": 14
+      },
+      {
+        "y_noise": 16.7491,
+        "x_time": 15
+      },
+      {
+        "y_noise": 15.0979,
+        "x_time": 16
+      },
+      {
+        "y_noise": 16.0379,
+        "x_time": 17
+      },
+      {
+        "y_noise": 15.8058,
+        "x_time": 18
+      },
+      {
+        "y_noise": 15.7536,
+        "x_time": 19
+      },
+      {
+        "y_noise": 19.6213,
+        "x_time": 20
+      },
+      {
+        "y_noise": 19.8913,
+        "x_time": 21
+      },
+      {
+        "y_noise": 18.7257,
+        "x_time": 22
+      },
+      {
+        "y_noise": 15.1912,
+        "x_time": 23
+      },
+      {
+        "y_noise": 17.7122,
+        "x_time": 24
+      },
+      {
+        "y_noise": 16.0559,
+        "x_time": 25
+      },
+      {
+        "y_noise": 15.9899,
+        "x_time": 26
+      },
+      {
+        "y_noise": 16.0016,
+        "x_time": 27
+      },
+      {
+        "y_noise": 16.6191,
+        "x_time": 28
+      },
+      {
+        "y_noise": 16.4716,
+        "x_time": 29
+      },
+      {
+        "y_noise": 16.3329,
+        "x_time": 30
+      },
+      {
+        "y_noise": 15.1443,
+        "x_time": 31
+      },
+      {
+        "y_noise": 16.9321,
+        "x_time": 32
+      },
+      {
+        "y_noise": 18.9734,
+        "x_time": 33
+      },
+      {
+        "y_noise": 18.2293,
+        "x_time": 34
+      },
+      {
+        "y_noise": 15.4791,
+        "x_time": 35
+      },
+      {
+        "y_noise": 18.7792,
+        "x_time": 36
+      },
+      {
+        "y_noise": 16.635,
+        "x_time": 37
+      },
+      {
+        "y_noise": 16.9808,
+        "x_time": 38
+      },
+      {
+        "y_noise": 18.0352,
+        "x_time": 39
+      },
+      {
+        "y_noise": 19.315,
+        "x_time": 40
+      },
+      {
+        "y_noise": 16.9409,
+        "x_time": 41
+      },
+      {
+        "y_noise": 18.1406,
+        "x_time": 42
+      },
+      {
+        "y_noise": 15.6364,
+        "x_time": 43
+      },
+      {
+        "y_noise": 15.8254,
+        "x_time": 44
+      },
+      {
+        "y_noise": 18.4794,
+        "x_time": 45
+      },
+      {
+        "y_noise": 15.7643,
+        "x_time": 46
+      },
+      {
+        "y_noise": 16.7343,
+        "x_time": 47
+      },
+      {
+        "y_noise": 18.188,
+        "x_time": 48
+      },
+      {
+        "y_noise": 16.0183,
+        "x_time": 49
+      },
+      {
+        "y_noise": 16.7564,
+        "x_time": 50
+      },
+      {
+        "y_noise": 15.6285,
+        "x_time": 51
+      },
+      {
+        "y_noise": 18.2441,
+        "x_time": 52
+      },
+      {
+        "y_noise": 16.2494,
+        "x_time": 53
+      },
+      {
+        "y_noise": 18.5751,
+        "x_time": 54
+      },
+      {
+        "y_noise": 15.1702,
+        "x_time": 55
+      },
+      {
+        "y_noise": 15.0741,
+        "x_time": 56
+      },
+      {
+        "y_noise": 16.2507,
+        "x_time": 57
+      },
+      {
+        "y_noise": 17.7445,
+        "x_time": 58
+      },
+      {
+        "y_noise": 18.3897,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3d6dd969ea1cbab968",
+    "index": 8,
+    "current_status": "error",
+    "country": "CA",
+    "region": "center",
+    "registered": "2015-04-22T11:23:06 -03:00",
+    "guid": "a21ed943-6db5-4fb5-8334-e4a2aa0054da",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "company": "AT&T",
+    "latitude": 2.668022,
+    "longitude": -90.199015,
+    "chart_data": [
+      {
+        "y_noise": 19.5307,
+        "x_time": 0
+      },
+      {
+        "y_noise": 15.8382,
+        "x_time": 1
+      },
+      {
+        "y_noise": 19.1007,
+        "x_time": 2
+      },
+      {
+        "y_noise": 18.0205,
+        "x_time": 3
+      },
+      {
+        "y_noise": 15.6149,
+        "x_time": 4
+      },
+      {
+        "y_noise": 17.0819,
+        "x_time": 5
+      },
+      {
+        "y_noise": 15.9136,
+        "x_time": 6
+      },
+      {
+        "y_noise": 18.8755,
+        "x_time": 7
+      },
+      {
+        "y_noise": 16.7046,
+        "x_time": 8
+      },
+      {
+        "y_noise": 17.0519,
+        "x_time": 9
+      },
+      {
+        "y_noise": 15.4386,
+        "x_time": 10
+      },
+      {
+        "y_noise": 18.5383,
+        "x_time": 11
+      },
+      {
+        "y_noise": 16.5738,
+        "x_time": 12
+      },
+      {
+        "y_noise": 19.3873,
+        "x_time": 13
+      },
+      {
+        "y_noise": 16.7294,
+        "x_time": 14
+      },
+      {
+        "y_noise": 19.0843,
+        "x_time": 15
+      },
+      {
+        "y_noise": 17.516,
+        "x_time": 16
+      },
+      {
+        "y_noise": 19.1357,
+        "x_time": 17
+      },
+      {
+        "y_noise": 19.3575,
+        "x_time": 18
+      },
+      {
+        "y_noise": 17.4099,
+        "x_time": 19
+      },
+      {
+        "y_noise": 15.842,
+        "x_time": 20
+      },
+      {
+        "y_noise": 18.6718,
+        "x_time": 21
+      },
+      {
+        "y_noise": 19.4654,
+        "x_time": 22
+      },
+      {
+        "y_noise": 19.6967,
+        "x_time": 23
+      },
+      {
+        "y_noise": 15.7822,
+        "x_time": 24
+      },
+      {
+        "y_noise": 19.9866,
+        "x_time": 25
+      },
+      {
+        "y_noise": 17.6601,
+        "x_time": 26
+      },
+      {
+        "y_noise": 16.6506,
+        "x_time": 27
+      },
+      {
+        "y_noise": 18.3229,
+        "x_time": 28
+      },
+      {
+        "y_noise": 18.3643,
+        "x_time": 29
+      },
+      {
+        "y_noise": 19.5606,
+        "x_time": 30
+      },
+      {
+        "y_noise": 16.3357,
+        "x_time": 31
+      },
+      {
+        "y_noise": 15.6869,
+        "x_time": 32
+      },
+      {
+        "y_noise": 16.9944,
+        "x_time": 33
+      },
+      {
+        "y_noise": 17.9714,
+        "x_time": 34
+      },
+      {
+        "y_noise": 15.5376,
+        "x_time": 35
+      },
+      {
+        "y_noise": 18.4341,
+        "x_time": 36
+      },
+      {
+        "y_noise": 18.1377,
+        "x_time": 37
+      },
+      {
+        "y_noise": 18.0874,
+        "x_time": 38
+      },
+      {
+        "y_noise": 16.3895,
+        "x_time": 39
+      },
+      {
+        "y_noise": 16.441,
+        "x_time": 40
+      },
+      {
+        "y_noise": 18.9745,
+        "x_time": 41
+      },
+      {
+        "y_noise": 17.0084,
+        "x_time": 42
+      },
+      {
+        "y_noise": 15.6069,
+        "x_time": 43
+      },
+      {
+        "y_noise": 19.603,
+        "x_time": 44
+      },
+      {
+        "y_noise": 19.3679,
+        "x_time": 45
+      },
+      {
+        "y_noise": 15.4771,
+        "x_time": 46
+      },
+      {
+        "y_noise": 17.6396,
+        "x_time": 47
+      },
+      {
+        "y_noise": 16.5826,
+        "x_time": 48
+      },
+      {
+        "y_noise": 17.6756,
+        "x_time": 49
+      },
+      {
+        "y_noise": 16.6763,
+        "x_time": 50
+      },
+      {
+        "y_noise": 16.5537,
+        "x_time": 51
+      },
+      {
+        "y_noise": 15.6128,
+        "x_time": 52
+      },
+      {
+        "y_noise": 19.5378,
+        "x_time": 53
+      },
+      {
+        "y_noise": 18.9365,
+        "x_time": 54
+      },
+      {
+        "y_noise": 17.3058,
+        "x_time": 55
+      },
+      {
+        "y_noise": 17.5439,
+        "x_time": 56
+      },
+      {
+        "y_noise": 17.2805,
+        "x_time": 57
+      },
+      {
+        "y_noise": 17.7036,
+        "x_time": 58
+      },
+      {
+        "y_noise": 16.7061,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3dd3d2d13c28700117",
+    "index": 9,
+    "current_status": "ok",
+    "country": "CA",
+    "region": "east",
+    "registered": "2014-09-03T05:57:03 -03:00",
+    "guid": "47205619-e99e-4146-8bcc-22b62734757e",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "company": "Verizon",
+    "latitude": 32.394422,
+    "longitude": -144.762641,
+    "chart_data": [
+      {
+        "y_noise": 19.7014,
+        "x_time": 0
+      },
+      {
+        "y_noise": 19.8024,
+        "x_time": 1
+      },
+      {
+        "y_noise": 16.3691,
+        "x_time": 2
+      },
+      {
+        "y_noise": 17.7416,
+        "x_time": 3
+      },
+      {
+        "y_noise": 15.9782,
+        "x_time": 4
+      },
+      {
+        "y_noise": 19.97,
+        "x_time": 5
+      },
+      {
+        "y_noise": 18.3535,
+        "x_time": 6
+      },
+      {
+        "y_noise": 19.3375,
+        "x_time": 7
+      },
+      {
+        "y_noise": 18.3404,
+        "x_time": 8
+      },
+      {
+        "y_noise": 18.0796,
+        "x_time": 9
+      },
+      {
+        "y_noise": 15.9642,
+        "x_time": 10
+      },
+      {
+        "y_noise": 17.3002,
+        "x_time": 11
+      },
+      {
+        "y_noise": 16.8247,
+        "x_time": 12
+      },
+      {
+        "y_noise": 18.3288,
+        "x_time": 13
+      },
+      {
+        "y_noise": 18.816,
+        "x_time": 14
+      },
+      {
+        "y_noise": 15.2765,
+        "x_time": 15
+      },
+      {
+        "y_noise": 15.4633,
+        "x_time": 16
+      },
+      {
+        "y_noise": 15.2851,
+        "x_time": 17
+      },
+      {
+        "y_noise": 17.0449,
+        "x_time": 18
+      },
+      {
+        "y_noise": 18.3228,
+        "x_time": 19
+      },
+      {
+        "y_noise": 16.4094,
+        "x_time": 20
+      },
+      {
+        "y_noise": 19.1566,
+        "x_time": 21
+      },
+      {
+        "y_noise": 15.446,
+        "x_time": 22
+      },
+      {
+        "y_noise": 17.0326,
+        "x_time": 23
+      },
+      {
+        "y_noise": 17.5865,
+        "x_time": 24
+      },
+      {
+        "y_noise": 19.2632,
+        "x_time": 25
+      },
+      {
+        "y_noise": 17.111,
+        "x_time": 26
+      },
+      {
+        "y_noise": 19.4657,
+        "x_time": 27
+      },
+      {
+        "y_noise": 15.2854,
+        "x_time": 28
+      },
+      {
+        "y_noise": 16.5849,
+        "x_time": 29
+      },
+      {
+        "y_noise": 19.8429,
+        "x_time": 30
+      },
+      {
+        "y_noise": 16.8044,
+        "x_time": 31
+      },
+      {
+        "y_noise": 16.0607,
+        "x_time": 32
+      },
+      {
+        "y_noise": 16.1981,
+        "x_time": 33
+      },
+      {
+        "y_noise": 18.7567,
+        "x_time": 34
+      },
+      {
+        "y_noise": 15.5209,
+        "x_time": 35
+      },
+      {
+        "y_noise": 17.5701,
+        "x_time": 36
+      },
+      {
+        "y_noise": 18.9573,
+        "x_time": 37
+      },
+      {
+        "y_noise": 17.2977,
+        "x_time": 38
+      },
+      {
+        "y_noise": 17.7699,
+        "x_time": 39
+      },
+      {
+        "y_noise": 16.058,
+        "x_time": 40
+      },
+      {
+        "y_noise": 17.9746,
+        "x_time": 41
+      },
+      {
+        "y_noise": 16.6787,
+        "x_time": 42
+      },
+      {
+        "y_noise": 15.9983,
+        "x_time": 43
+      },
+      {
+        "y_noise": 17.6587,
+        "x_time": 44
+      },
+      {
+        "y_noise": 16.6527,
+        "x_time": 45
+      },
+      {
+        "y_noise": 15.807,
+        "x_time": 46
+      },
+      {
+        "y_noise": 17.9321,
+        "x_time": 47
+      },
+      {
+        "y_noise": 15.5837,
+        "x_time": 48
+      },
+      {
+        "y_noise": 19.6174,
+        "x_time": 49
+      },
+      {
+        "y_noise": 15.2057,
+        "x_time": 50
+      },
+      {
+        "y_noise": 15.0054,
+        "x_time": 51
+      },
+      {
+        "y_noise": 19.0984,
+        "x_time": 52
+      },
+      {
+        "y_noise": 16.524,
+        "x_time": 53
+      },
+      {
+        "y_noise": 15.8347,
+        "x_time": 54
+      },
+      {
+        "y_noise": 16.0285,
+        "x_time": 55
+      },
+      {
+        "y_noise": 15.9525,
+        "x_time": 56
+      },
+      {
+        "y_noise": 15.2405,
+        "x_time": 57
+      },
+      {
+        "y_noise": 16.2616,
+        "x_time": 58
+      },
+      {
+        "y_noise": 19.6702,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3d4b5339c718b73050",
+    "index": 10,
+    "current_status": "error",
+    "country": "UK",
+    "region": "west",
+    "registered": "2015-10-26T07:28:54 -02:00",
+    "guid": "08721779-7370-4999-8922-cc576d4bd7ea",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "company": "Cellcom",
+    "latitude": 76.047536,
+    "longitude": -112.825392,
+    "chart_data": [
+      {
+        "y_noise": 17.9372,
+        "x_time": 0
+      },
+      {
+        "y_noise": 18.6419,
+        "x_time": 1
+      },
+      {
+        "y_noise": 15.6425,
+        "x_time": 2
+      },
+      {
+        "y_noise": 16.5256,
+        "x_time": 3
+      },
+      {
+        "y_noise": 18.5992,
+        "x_time": 4
+      },
+      {
+        "y_noise": 15.2733,
+        "x_time": 5
+      },
+      {
+        "y_noise": 19.005,
+        "x_time": 6
+      },
+      {
+        "y_noise": 16.7472,
+        "x_time": 7
+      },
+      {
+        "y_noise": 19.6612,
+        "x_time": 8
+      },
+      {
+        "y_noise": 18.9051,
+        "x_time": 9
+      },
+      {
+        "y_noise": 15.6008,
+        "x_time": 10
+      },
+      {
+        "y_noise": 18.7028,
+        "x_time": 11
+      },
+      {
+        "y_noise": 17.3686,
+        "x_time": 12
+      },
+      {
+        "y_noise": 15.0976,
+        "x_time": 13
+      },
+      {
+        "y_noise": 16.2219,
+        "x_time": 14
+      },
+      {
+        "y_noise": 17.3288,
+        "x_time": 15
+      },
+      {
+        "y_noise": 16.8783,
+        "x_time": 16
+      },
+      {
+        "y_noise": 19.9626,
+        "x_time": 17
+      },
+      {
+        "y_noise": 19.3101,
+        "x_time": 18
+      },
+      {
+        "y_noise": 19.4341,
+        "x_time": 19
+      },
+      {
+        "y_noise": 19.681,
+        "x_time": 20
+      },
+      {
+        "y_noise": 16.0913,
+        "x_time": 21
+      },
+      {
+        "y_noise": 19.4568,
+        "x_time": 22
+      },
+      {
+        "y_noise": 18.8902,
+        "x_time": 23
+      },
+      {
+        "y_noise": 16.9626,
+        "x_time": 24
+      },
+      {
+        "y_noise": 15.2358,
+        "x_time": 25
+      },
+      {
+        "y_noise": 18.145,
+        "x_time": 26
+      },
+      {
+        "y_noise": 15.8107,
+        "x_time": 27
+      },
+      {
+        "y_noise": 18.3388,
+        "x_time": 28
+      },
+      {
+        "y_noise": 19.2539,
+        "x_time": 29
+      },
+      {
+        "y_noise": 19.8411,
+        "x_time": 30
+      },
+      {
+        "y_noise": 19.1809,
+        "x_time": 31
+      },
+      {
+        "y_noise": 18.3087,
+        "x_time": 32
+      },
+      {
+        "y_noise": 16.3111,
+        "x_time": 33
+      },
+      {
+        "y_noise": 17.2339,
+        "x_time": 34
+      },
+      {
+        "y_noise": 16.0254,
+        "x_time": 35
+      },
+      {
+        "y_noise": 15.9703,
+        "x_time": 36
+      },
+      {
+        "y_noise": 16.9534,
+        "x_time": 37
+      },
+      {
+        "y_noise": 18.5033,
+        "x_time": 38
+      },
+      {
+        "y_noise": 16.1153,
+        "x_time": 39
+      },
+      {
+        "y_noise": 15.377,
+        "x_time": 40
+      },
+      {
+        "y_noise": 18.5315,
+        "x_time": 41
+      },
+      {
+        "y_noise": 15.3339,
+        "x_time": 42
+      },
+      {
+        "y_noise": 16.3059,
+        "x_time": 43
+      },
+      {
+        "y_noise": 17.5321,
+        "x_time": 44
+      },
+      {
+        "y_noise": 19.6504,
+        "x_time": 45
+      },
+      {
+        "y_noise": 19.1326,
+        "x_time": 46
+      },
+      {
+        "y_noise": 18.3739,
+        "x_time": 47
+      },
+      {
+        "y_noise": 17.2467,
+        "x_time": 48
+      },
+      {
+        "y_noise": 16.8306,
+        "x_time": 49
+      },
+      {
+        "y_noise": 19.4057,
+        "x_time": 50
+      },
+      {
+        "y_noise": 17.2831,
+        "x_time": 51
+      },
+      {
+        "y_noise": 18.61,
+        "x_time": 52
+      },
+      {
+        "y_noise": 19.4386,
+        "x_time": 53
+      },
+      {
+        "y_noise": 15.6475,
+        "x_time": 54
+      },
+      {
+        "y_noise": 16.1574,
+        "x_time": 55
+      },
+      {
+        "y_noise": 15.287,
+        "x_time": 56
+      },
+      {
+        "y_noise": 19.9059,
+        "x_time": 57
+      },
+      {
+        "y_noise": 17.1604,
+        "x_time": 58
+      },
+      {
+        "y_noise": 15.6743,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3d0ab5fa429b9d6e0e",
+    "index": 11,
+    "current_status": "ok",
+    "country": "UK",
+    "region": "center",
+    "registered": "2014-03-15T06:49:31 -02:00",
+    "guid": "5a04d460-b615-4bb5-8340-4423ea5e80a6",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "company": "Cellcom",
+    "latitude": 16.203634,
+    "longitude": -109.586183,
+    "chart_data": [
+      {
+        "y_noise": 19.697,
+        "x_time": 0
+      },
+      {
+        "y_noise": 16.0129,
+        "x_time": 1
+      },
+      {
+        "y_noise": 19.5054,
+        "x_time": 2
+      },
+      {
+        "y_noise": 15.2848,
+        "x_time": 3
+      },
+      {
+        "y_noise": 16.107,
+        "x_time": 4
+      },
+      {
+        "y_noise": 17.3045,
+        "x_time": 5
+      },
+      {
+        "y_noise": 15.444,
+        "x_time": 6
+      },
+      {
+        "y_noise": 16.6178,
+        "x_time": 7
+      },
+      {
+        "y_noise": 17.2456,
+        "x_time": 8
+      },
+      {
+        "y_noise": 17.4333,
+        "x_time": 9
+      },
+      {
+        "y_noise": 16.5324,
+        "x_time": 10
+      },
+      {
+        "y_noise": 16.5184,
+        "x_time": 11
+      },
+      {
+        "y_noise": 15.2272,
+        "x_time": 12
+      },
+      {
+        "y_noise": 17.9262,
+        "x_time": 13
+      },
+      {
+        "y_noise": 19.6765,
+        "x_time": 14
+      },
+      {
+        "y_noise": 15.7209,
+        "x_time": 15
+      },
+      {
+        "y_noise": 15.2184,
+        "x_time": 16
+      },
+      {
+        "y_noise": 19.1712,
+        "x_time": 17
+      },
+      {
+        "y_noise": 19.9175,
+        "x_time": 18
+      },
+      {
+        "y_noise": 16.4574,
+        "x_time": 19
+      },
+      {
+        "y_noise": 19.3192,
+        "x_time": 20
+      },
+      {
+        "y_noise": 16.9918,
+        "x_time": 21
+      },
+      {
+        "y_noise": 15.4815,
+        "x_time": 22
+      },
+      {
+        "y_noise": 17.2853,
+        "x_time": 23
+      },
+      {
+        "y_noise": 19.3136,
+        "x_time": 24
+      },
+      {
+        "y_noise": 17.49,
+        "x_time": 25
+      },
+      {
+        "y_noise": 19.5011,
+        "x_time": 26
+      },
+      {
+        "y_noise": 17.6271,
+        "x_time": 27
+      },
+      {
+        "y_noise": 16.4068,
+        "x_time": 28
+      },
+      {
+        "y_noise": 16.8515,
+        "x_time": 29
+      },
+      {
+        "y_noise": 16.0834,
+        "x_time": 30
+      },
+      {
+        "y_noise": 16.3058,
+        "x_time": 31
+      },
+      {
+        "y_noise": 16.3628,
+        "x_time": 32
+      },
+      {
+        "y_noise": 18.2943,
+        "x_time": 33
+      },
+      {
+        "y_noise": 17.4427,
+        "x_time": 34
+      },
+      {
+        "y_noise": 15.8452,
+        "x_time": 35
+      },
+      {
+        "y_noise": 16.6271,
+        "x_time": 36
+      },
+      {
+        "y_noise": 19.8329,
+        "x_time": 37
+      },
+      {
+        "y_noise": 15.2394,
+        "x_time": 38
+      },
+      {
+        "y_noise": 17.0394,
+        "x_time": 39
+      },
+      {
+        "y_noise": 18.5807,
+        "x_time": 40
+      },
+      {
+        "y_noise": 16.4927,
+        "x_time": 41
+      },
+      {
+        "y_noise": 16.3606,
+        "x_time": 42
+      },
+      {
+        "y_noise": 15.1733,
+        "x_time": 43
+      },
+      {
+        "y_noise": 16.0356,
+        "x_time": 44
+      },
+      {
+        "y_noise": 19.0434,
+        "x_time": 45
+      },
+      {
+        "y_noise": 19.3894,
+        "x_time": 46
+      },
+      {
+        "y_noise": 19.2056,
+        "x_time": 47
+      },
+      {
+        "y_noise": 19.3881,
+        "x_time": 48
+      },
+      {
+        "y_noise": 16.0372,
+        "x_time": 49
+      },
+      {
+        "y_noise": 18.9182,
+        "x_time": 50
+      },
+      {
+        "y_noise": 16.3755,
+        "x_time": 51
+      },
+      {
+        "y_noise": 18.3909,
+        "x_time": 52
+      },
+      {
+        "y_noise": 19.6181,
+        "x_time": 53
+      },
+      {
+        "y_noise": 17.1547,
+        "x_time": 54
+      },
+      {
+        "y_noise": 17.4267,
+        "x_time": 55
+      },
+      {
+        "y_noise": 17.6917,
+        "x_time": 56
+      },
+      {
+        "y_noise": 15.7802,
+        "x_time": 57
+      },
+      {
+        "y_noise": 19.5297,
+        "x_time": 58
+      },
+      {
+        "y_noise": 18.1711,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3d3b7f97fa435c460d",
+    "index": 12,
+    "current_status": "error",
+    "country": "CA",
+    "region": "center",
+    "registered": "2015-03-25T04:22:10 -02:00",
+    "guid": "4d4ea0bd-bb00-437f-9acc-3d767d411000",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "company": "Verizon",
+    "latitude": -68.117409,
+    "longitude": -170.09747,
+    "chart_data": [
+      {
+        "y_noise": 19.8219,
+        "x_time": 0
+      },
+      {
+        "y_noise": 16.9181,
+        "x_time": 1
+      },
+      {
+        "y_noise": 16.8097,
+        "x_time": 2
+      },
+      {
+        "y_noise": 16.8905,
+        "x_time": 3
+      },
+      {
+        "y_noise": 19.7406,
+        "x_time": 4
+      },
+      {
+        "y_noise": 17.0639,
+        "x_time": 5
+      },
+      {
+        "y_noise": 16.5521,
+        "x_time": 6
+      },
+      {
+        "y_noise": 16.6603,
+        "x_time": 7
+      },
+      {
+        "y_noise": 18.9204,
+        "x_time": 8
+      },
+      {
+        "y_noise": 16.4387,
+        "x_time": 9
+      },
+      {
+        "y_noise": 18.4033,
+        "x_time": 10
+      },
+      {
+        "y_noise": 18.1672,
+        "x_time": 11
+      },
+      {
+        "y_noise": 15.2563,
+        "x_time": 12
+      },
+      {
+        "y_noise": 17.4757,
+        "x_time": 13
+      },
+      {
+        "y_noise": 15.9794,
+        "x_time": 14
+      },
+      {
+        "y_noise": 16.5622,
+        "x_time": 15
+      },
+      {
+        "y_noise": 19.3141,
+        "x_time": 16
+      },
+      {
+        "y_noise": 16.2323,
+        "x_time": 17
+      },
+      {
+        "y_noise": 16.0834,
+        "x_time": 18
+      },
+      {
+        "y_noise": 16.6513,
+        "x_time": 19
+      },
+      {
+        "y_noise": 16.301,
+        "x_time": 20
+      },
+      {
+        "y_noise": 15.5452,
+        "x_time": 21
+      },
+      {
+        "y_noise": 16.7362,
+        "x_time": 22
+      },
+      {
+        "y_noise": 16.3136,
+        "x_time": 23
+      },
+      {
+        "y_noise": 16.8515,
+        "x_time": 24
+      },
+      {
+        "y_noise": 15.5419,
+        "x_time": 25
+      },
+      {
+        "y_noise": 17.2218,
+        "x_time": 26
+      },
+      {
+        "y_noise": 18.9881,
+        "x_time": 27
+      },
+      {
+        "y_noise": 17.5923,
+        "x_time": 28
+      },
+      {
+        "y_noise": 19.0013,
+        "x_time": 29
+      },
+      {
+        "y_noise": 15.1536,
+        "x_time": 30
+      },
+      {
+        "y_noise": 15.8308,
+        "x_time": 31
+      },
+      {
+        "y_noise": 15.6688,
+        "x_time": 32
+      },
+      {
+        "y_noise": 16.1869,
+        "x_time": 33
+      },
+      {
+        "y_noise": 17.9862,
+        "x_time": 34
+      },
+      {
+        "y_noise": 16.4901,
+        "x_time": 35
+      },
+      {
+        "y_noise": 19.9433,
+        "x_time": 36
+      },
+      {
+        "y_noise": 15.8377,
+        "x_time": 37
+      },
+      {
+        "y_noise": 15.4448,
+        "x_time": 38
+      },
+      {
+        "y_noise": 16.3456,
+        "x_time": 39
+      },
+      {
+        "y_noise": 19.4117,
+        "x_time": 40
+      },
+      {
+        "y_noise": 16.8521,
+        "x_time": 41
+      },
+      {
+        "y_noise": 17.5709,
+        "x_time": 42
+      },
+      {
+        "y_noise": 18.0793,
+        "x_time": 43
+      },
+      {
+        "y_noise": 15.938,
+        "x_time": 44
+      },
+      {
+        "y_noise": 19.4446,
+        "x_time": 45
+      },
+      {
+        "y_noise": 18.9272,
+        "x_time": 46
+      },
+      {
+        "y_noise": 18.7716,
+        "x_time": 47
+      },
+      {
+        "y_noise": 19.6818,
+        "x_time": 48
+      },
+      {
+        "y_noise": 15.1807,
+        "x_time": 49
+      },
+      {
+        "y_noise": 19.3489,
+        "x_time": 50
+      },
+      {
+        "y_noise": 17.9448,
+        "x_time": 51
+      },
+      {
+        "y_noise": 19.3885,
+        "x_time": 52
+      },
+      {
+        "y_noise": 18.4281,
+        "x_time": 53
+      },
+      {
+        "y_noise": 18.8068,
+        "x_time": 54
+      },
+      {
+        "y_noise": 19.3745,
+        "x_time": 55
+      },
+      {
+        "y_noise": 15.4493,
+        "x_time": 56
+      },
+      {
+        "y_noise": 17.6181,
+        "x_time": 57
+      },
+      {
+        "y_noise": 15.037,
+        "x_time": 58
+      },
+      {
+        "y_noise": 18.0485,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3dda973a7b32deaf14",
+    "index": 13,
+    "current_status": "error",
+    "country": "CA",
+    "region": "center",
+    "registered": "2015-04-27T02:18:53 -03:00",
+    "guid": "b24a3dd4-82e9-4693-9b93-300ed02ade33",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "company": "Cellcom",
+    "latitude": 57.443583,
+    "longitude": 21.855744,
+    "chart_data": [
+      {
+        "y_noise": 18.0114,
+        "x_time": 0
+      },
+      {
+        "y_noise": 16.3921,
+        "x_time": 1
+      },
+      {
+        "y_noise": 16.8142,
+        "x_time": 2
+      },
+      {
+        "y_noise": 18.9367,
+        "x_time": 3
+      },
+      {
+        "y_noise": 16.1991,
+        "x_time": 4
+      },
+      {
+        "y_noise": 16.3987,
+        "x_time": 5
+      },
+      {
+        "y_noise": 17.3667,
+        "x_time": 6
+      },
+      {
+        "y_noise": 15.4182,
+        "x_time": 7
+      },
+      {
+        "y_noise": 16.173,
+        "x_time": 8
+      },
+      {
+        "y_noise": 17.3897,
+        "x_time": 9
+      },
+      {
+        "y_noise": 16.469,
+        "x_time": 10
+      },
+      {
+        "y_noise": 19.0875,
+        "x_time": 11
+      },
+      {
+        "y_noise": 19.3591,
+        "x_time": 12
+      },
+      {
+        "y_noise": 16.2838,
+        "x_time": 13
+      },
+      {
+        "y_noise": 15.4091,
+        "x_time": 14
+      },
+      {
+        "y_noise": 17.697,
+        "x_time": 15
+      },
+      {
+        "y_noise": 17.2036,
+        "x_time": 16
+      },
+      {
+        "y_noise": 15.1296,
+        "x_time": 17
+      },
+      {
+        "y_noise": 16.6847,
+        "x_time": 18
+      },
+      {
+        "y_noise": 18.1987,
+        "x_time": 19
+      },
+      {
+        "y_noise": 18.9297,
+        "x_time": 20
+      },
+      {
+        "y_noise": 15.1985,
+        "x_time": 21
+      },
+      {
+        "y_noise": 15.3398,
+        "x_time": 22
+      },
+      {
+        "y_noise": 18.2,
+        "x_time": 23
+      },
+      {
+        "y_noise": 17.2885,
+        "x_time": 24
+      },
+      {
+        "y_noise": 15.6005,
+        "x_time": 25
+      },
+      {
+        "y_noise": 18.4435,
+        "x_time": 26
+      },
+      {
+        "y_noise": 17.6324,
+        "x_time": 27
+      },
+      {
+        "y_noise": 17.0625,
+        "x_time": 28
+      },
+      {
+        "y_noise": 16.0397,
+        "x_time": 29
+      },
+      {
+        "y_noise": 17.8127,
+        "x_time": 30
+      },
+      {
+        "y_noise": 19.0689,
+        "x_time": 31
+      },
+      {
+        "y_noise": 15.1189,
+        "x_time": 32
+      },
+      {
+        "y_noise": 18.757,
+        "x_time": 33
+      },
+      {
+        "y_noise": 15.3824,
+        "x_time": 34
+      },
+      {
+        "y_noise": 15.7208,
+        "x_time": 35
+      },
+      {
+        "y_noise": 17.8335,
+        "x_time": 36
+      },
+      {
+        "y_noise": 18.3108,
+        "x_time": 37
+      },
+      {
+        "y_noise": 15.3164,
+        "x_time": 38
+      },
+      {
+        "y_noise": 15.8935,
+        "x_time": 39
+      },
+      {
+        "y_noise": 15.7525,
+        "x_time": 40
+      },
+      {
+        "y_noise": 18.6678,
+        "x_time": 41
+      },
+      {
+        "y_noise": 16.7069,
+        "x_time": 42
+      },
+      {
+        "y_noise": 19.6378,
+        "x_time": 43
+      },
+      {
+        "y_noise": 18.1385,
+        "x_time": 44
+      },
+      {
+        "y_noise": 18.55,
+        "x_time": 45
+      },
+      {
+        "y_noise": 17.0925,
+        "x_time": 46
+      },
+      {
+        "y_noise": 17.4108,
+        "x_time": 47
+      },
+      {
+        "y_noise": 17.0698,
+        "x_time": 48
+      },
+      {
+        "y_noise": 17.5186,
+        "x_time": 49
+      },
+      {
+        "y_noise": 15.0072,
+        "x_time": 50
+      },
+      {
+        "y_noise": 16.373,
+        "x_time": 51
+      },
+      {
+        "y_noise": 17.4367,
+        "x_time": 52
+      },
+      {
+        "y_noise": 18.0215,
+        "x_time": 53
+      },
+      {
+        "y_noise": 17.6958,
+        "x_time": 54
+      },
+      {
+        "y_noise": 19.3655,
+        "x_time": 55
+      },
+      {
+        "y_noise": 17.6533,
+        "x_time": 56
+      },
+      {
+        "y_noise": 19.397,
+        "x_time": 57
+      },
+      {
+        "y_noise": 16.725,
+        "x_time": 58
+      },
+      {
+        "y_noise": 15.163,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3df9d70e47cbb04f77",
+    "index": 14,
+    "current_status": "ok",
+    "country": "US",
+    "region": "east",
+    "registered": "2014-08-07T03:02:56 -03:00",
+    "guid": "d8d8d4a1-bb9f-42e1-8316-86b5be27b44d",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "company": "Verizon",
+    "latitude": -61.10347,
+    "longitude": 80.548367,
+    "chart_data": [
+      {
+        "y_noise": 17.5668,
+        "x_time": 0
+      },
+      {
+        "y_noise": 19.9719,
+        "x_time": 1
+      },
+      {
+        "y_noise": 16.2886,
+        "x_time": 2
+      },
+      {
+        "y_noise": 15.6917,
+        "x_time": 3
+      },
+      {
+        "y_noise": 18.471,
+        "x_time": 4
+      },
+      {
+        "y_noise": 19.4138,
+        "x_time": 5
+      },
+      {
+        "y_noise": 18.7178,
+        "x_time": 6
+      },
+      {
+        "y_noise": 18.891,
+        "x_time": 7
+      },
+      {
+        "y_noise": 16.7188,
+        "x_time": 8
+      },
+      {
+        "y_noise": 17.7421,
+        "x_time": 9
+      },
+      {
+        "y_noise": 15.5315,
+        "x_time": 10
+      },
+      {
+        "y_noise": 19.8722,
+        "x_time": 11
+      },
+      {
+        "y_noise": 19.3934,
+        "x_time": 12
+      },
+      {
+        "y_noise": 15.6198,
+        "x_time": 13
+      },
+      {
+        "y_noise": 16.1845,
+        "x_time": 14
+      },
+      {
+        "y_noise": 18.6103,
+        "x_time": 15
+      },
+      {
+        "y_noise": 19.4667,
+        "x_time": 16
+      },
+      {
+        "y_noise": 17.8927,
+        "x_time": 17
+      },
+      {
+        "y_noise": 15.4157,
+        "x_time": 18
+      },
+      {
+        "y_noise": 16.2675,
+        "x_time": 19
+      },
+      {
+        "y_noise": 16.3258,
+        "x_time": 20
+      },
+      {
+        "y_noise": 16.4714,
+        "x_time": 21
+      },
+      {
+        "y_noise": 17.6413,
+        "x_time": 22
+      },
+      {
+        "y_noise": 17.9787,
+        "x_time": 23
+      },
+      {
+        "y_noise": 16.0517,
+        "x_time": 24
+      },
+      {
+        "y_noise": 15.0624,
+        "x_time": 25
+      },
+      {
+        "y_noise": 16.7173,
+        "x_time": 26
+      },
+      {
+        "y_noise": 15.8967,
+        "x_time": 27
+      },
+      {
+        "y_noise": 19.2562,
+        "x_time": 28
+      },
+      {
+        "y_noise": 16.2963,
+        "x_time": 29
+      },
+      {
+        "y_noise": 16.1479,
+        "x_time": 30
+      },
+      {
+        "y_noise": 18.3461,
+        "x_time": 31
+      },
+      {
+        "y_noise": 16.4022,
+        "x_time": 32
+      },
+      {
+        "y_noise": 15.3742,
+        "x_time": 33
+      },
+      {
+        "y_noise": 18.9177,
+        "x_time": 34
+      },
+      {
+        "y_noise": 17.9397,
+        "x_time": 35
+      },
+      {
+        "y_noise": 17.6219,
+        "x_time": 36
+      },
+      {
+        "y_noise": 17.2658,
+        "x_time": 37
+      },
+      {
+        "y_noise": 17.5821,
+        "x_time": 38
+      },
+      {
+        "y_noise": 19.7156,
+        "x_time": 39
+      },
+      {
+        "y_noise": 16.4079,
+        "x_time": 40
+      },
+      {
+        "y_noise": 17.0281,
+        "x_time": 41
+      },
+      {
+        "y_noise": 15.6602,
+        "x_time": 42
+      },
+      {
+        "y_noise": 15.0441,
+        "x_time": 43
+      },
+      {
+        "y_noise": 16.2984,
+        "x_time": 44
+      },
+      {
+        "y_noise": 18.8493,
+        "x_time": 45
+      },
+      {
+        "y_noise": 19.2988,
+        "x_time": 46
+      },
+      {
+        "y_noise": 15.5419,
+        "x_time": 47
+      },
+      {
+        "y_noise": 16.8634,
+        "x_time": 48
+      },
+      {
+        "y_noise": 15.9518,
+        "x_time": 49
+      },
+      {
+        "y_noise": 17.918,
+        "x_time": 50
+      },
+      {
+        "y_noise": 17.8607,
+        "x_time": 51
+      },
+      {
+        "y_noise": 19.3096,
+        "x_time": 52
+      },
+      {
+        "y_noise": 18.7109,
+        "x_time": 53
+      },
+      {
+        "y_noise": 19.3724,
+        "x_time": 54
+      },
+      {
+        "y_noise": 16.047,
+        "x_time": 55
+      },
+      {
+        "y_noise": 19.3003,
+        "x_time": 56
+      },
+      {
+        "y_noise": 16.0789,
+        "x_time": 57
+      },
+      {
+        "y_noise": 15.6483,
+        "x_time": 58
+      },
+      {
+        "y_noise": 15.7084,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3dd85c90cd9c8b766f",
+    "index": 15,
+    "current_status": "ok",
+    "country": "US",
+    "region": "east",
+    "registered": "2015-07-20T09:01:57 -03:00",
+    "guid": "277b13bc-de87-421e-bbc2-90978e6fb005",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "company": "Verizon",
+    "latitude": 87.69888,
+    "longitude": -38.800593,
+    "chart_data": [
+      {
+        "y_noise": 17.4962,
+        "x_time": 0
+      },
+      {
+        "y_noise": 15.9636,
+        "x_time": 1
+      },
+      {
+        "y_noise": 15.4472,
+        "x_time": 2
+      },
+      {
+        "y_noise": 19.7111,
+        "x_time": 3
+      },
+      {
+        "y_noise": 19.3175,
+        "x_time": 4
+      },
+      {
+        "y_noise": 17.2802,
+        "x_time": 5
+      },
+      {
+        "y_noise": 17.3454,
+        "x_time": 6
+      },
+      {
+        "y_noise": 16.1861,
+        "x_time": 7
+      },
+      {
+        "y_noise": 18.488,
+        "x_time": 8
+      },
+      {
+        "y_noise": 15.1004,
+        "x_time": 9
+      },
+      {
+        "y_noise": 16.0507,
+        "x_time": 10
+      },
+      {
+        "y_noise": 16.2161,
+        "x_time": 11
+      },
+      {
+        "y_noise": 19.2505,
+        "x_time": 12
+      },
+      {
+        "y_noise": 19.9353,
+        "x_time": 13
+      },
+      {
+        "y_noise": 16.8174,
+        "x_time": 14
+      },
+      {
+        "y_noise": 15.2785,
+        "x_time": 15
+      },
+      {
+        "y_noise": 17.57,
+        "x_time": 16
+      },
+      {
+        "y_noise": 17.3431,
+        "x_time": 17
+      },
+      {
+        "y_noise": 15.1704,
+        "x_time": 18
+      },
+      {
+        "y_noise": 18.0022,
+        "x_time": 19
+      },
+      {
+        "y_noise": 19.9104,
+        "x_time": 20
+      },
+      {
+        "y_noise": 17.1752,
+        "x_time": 21
+      },
+      {
+        "y_noise": 17.0222,
+        "x_time": 22
+      },
+      {
+        "y_noise": 19.6078,
+        "x_time": 23
+      },
+      {
+        "y_noise": 16.7626,
+        "x_time": 24
+      },
+      {
+        "y_noise": 18.3819,
+        "x_time": 25
+      },
+      {
+        "y_noise": 16.7183,
+        "x_time": 26
+      },
+      {
+        "y_noise": 19.6925,
+        "x_time": 27
+      },
+      {
+        "y_noise": 19.8855,
+        "x_time": 28
+      },
+      {
+        "y_noise": 18.6854,
+        "x_time": 29
+      },
+      {
+        "y_noise": 18.3676,
+        "x_time": 30
+      },
+      {
+        "y_noise": 19.4981,
+        "x_time": 31
+      },
+      {
+        "y_noise": 18.1892,
+        "x_time": 32
+      },
+      {
+        "y_noise": 18.1001,
+        "x_time": 33
+      },
+      {
+        "y_noise": 15.7817,
+        "x_time": 34
+      },
+      {
+        "y_noise": 15.2621,
+        "x_time": 35
+      },
+      {
+        "y_noise": 17.2232,
+        "x_time": 36
+      },
+      {
+        "y_noise": 18.8435,
+        "x_time": 37
+      },
+      {
+        "y_noise": 15.6969,
+        "x_time": 38
+      },
+      {
+        "y_noise": 17.0255,
+        "x_time": 39
+      },
+      {
+        "y_noise": 19.5547,
+        "x_time": 40
+      },
+      {
+        "y_noise": 19.0161,
+        "x_time": 41
+      },
+      {
+        "y_noise": 17.556,
+        "x_time": 42
+      },
+      {
+        "y_noise": 15.4366,
+        "x_time": 43
+      },
+      {
+        "y_noise": 17.396,
+        "x_time": 44
+      },
+      {
+        "y_noise": 19.5798,
+        "x_time": 45
+      },
+      {
+        "y_noise": 17.5435,
+        "x_time": 46
+      },
+      {
+        "y_noise": 19.4808,
+        "x_time": 47
+      },
+      {
+        "y_noise": 16.5656,
+        "x_time": 48
+      },
+      {
+        "y_noise": 16.2559,
+        "x_time": 49
+      },
+      {
+        "y_noise": 16.6943,
+        "x_time": 50
+      },
+      {
+        "y_noise": 15.7999,
+        "x_time": 51
+      },
+      {
+        "y_noise": 19.3268,
+        "x_time": 52
+      },
+      {
+        "y_noise": 15.0566,
+        "x_time": 53
+      },
+      {
+        "y_noise": 16.8706,
+        "x_time": 54
+      },
+      {
+        "y_noise": 15.1228,
+        "x_time": 55
+      },
+      {
+        "y_noise": 19.1665,
+        "x_time": 56
+      },
+      {
+        "y_noise": 19.7772,
+        "x_time": 57
+      },
+      {
+        "y_noise": 16.4209,
+        "x_time": 58
+      },
+      {
+        "y_noise": 16.0655,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3dd5f8389034edb368",
+    "index": 16,
+    "current_status": "error",
+    "country": "UK",
+    "region": "east",
+    "registered": "2015-11-21T02:00:26 -02:00",
+    "guid": "5f4d5f87-dbce-41b8-a951-2502645e4c66",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "company": "Cellcom",
+    "latitude": -23.233851,
+    "longitude": -42.677955,
+    "chart_data": [
+      {
+        "y_noise": 16.5207,
+        "x_time": 0
+      },
+      {
+        "y_noise": 16.9417,
+        "x_time": 1
+      },
+      {
+        "y_noise": 17.6752,
+        "x_time": 2
+      },
+      {
+        "y_noise": 18.1777,
+        "x_time": 3
+      },
+      {
+        "y_noise": 15.2299,
+        "x_time": 4
+      },
+      {
+        "y_noise": 16.184,
+        "x_time": 5
+      },
+      {
+        "y_noise": 15.5934,
+        "x_time": 6
+      },
+      {
+        "y_noise": 19.523,
+        "x_time": 7
+      },
+      {
+        "y_noise": 16.8967,
+        "x_time": 8
+      },
+      {
+        "y_noise": 16.3931,
+        "x_time": 9
+      },
+      {
+        "y_noise": 16.1096,
+        "x_time": 10
+      },
+      {
+        "y_noise": 17.6597,
+        "x_time": 11
+      },
+      {
+        "y_noise": 19.3939,
+        "x_time": 12
+      },
+      {
+        "y_noise": 19.9842,
+        "x_time": 13
+      },
+      {
+        "y_noise": 17.7437,
+        "x_time": 14
+      },
+      {
+        "y_noise": 19.6293,
+        "x_time": 15
+      },
+      {
+        "y_noise": 15.0465,
+        "x_time": 16
+      },
+      {
+        "y_noise": 15.0334,
+        "x_time": 17
+      },
+      {
+        "y_noise": 17.1729,
+        "x_time": 18
+      },
+      {
+        "y_noise": 15.9606,
+        "x_time": 19
+      },
+      {
+        "y_noise": 17.3985,
+        "x_time": 20
+      },
+      {
+        "y_noise": 19.0865,
+        "x_time": 21
+      },
+      {
+        "y_noise": 16.3883,
+        "x_time": 22
+      },
+      {
+        "y_noise": 18.503,
+        "x_time": 23
+      },
+      {
+        "y_noise": 15.1136,
+        "x_time": 24
+      },
+      {
+        "y_noise": 18.1704,
+        "x_time": 25
+      },
+      {
+        "y_noise": 18.6732,
+        "x_time": 26
+      },
+      {
+        "y_noise": 19.6945,
+        "x_time": 27
+      },
+      {
+        "y_noise": 15.1566,
+        "x_time": 28
+      },
+      {
+        "y_noise": 19.1533,
+        "x_time": 29
+      },
+      {
+        "y_noise": 16.8111,
+        "x_time": 30
+      },
+      {
+        "y_noise": 18.1256,
+        "x_time": 31
+      },
+      {
+        "y_noise": 16.3309,
+        "x_time": 32
+      },
+      {
+        "y_noise": 19.8343,
+        "x_time": 33
+      },
+      {
+        "y_noise": 16.294,
+        "x_time": 34
+      },
+      {
+        "y_noise": 17.9762,
+        "x_time": 35
+      },
+      {
+        "y_noise": 16.1467,
+        "x_time": 36
+      },
+      {
+        "y_noise": 16.627,
+        "x_time": 37
+      },
+      {
+        "y_noise": 18.1963,
+        "x_time": 38
+      },
+      {
+        "y_noise": 15.0672,
+        "x_time": 39
+      },
+      {
+        "y_noise": 17.2493,
+        "x_time": 40
+      },
+      {
+        "y_noise": 19.926,
+        "x_time": 41
+      },
+      {
+        "y_noise": 19.3058,
+        "x_time": 42
+      },
+      {
+        "y_noise": 16.8757,
+        "x_time": 43
+      },
+      {
+        "y_noise": 17.0173,
+        "x_time": 44
+      },
+      {
+        "y_noise": 15.4565,
+        "x_time": 45
+      },
+      {
+        "y_noise": 17.6497,
+        "x_time": 46
+      },
+      {
+        "y_noise": 19.3572,
+        "x_time": 47
+      },
+      {
+        "y_noise": 17.3586,
+        "x_time": 48
+      },
+      {
+        "y_noise": 19.2171,
+        "x_time": 49
+      },
+      {
+        "y_noise": 16.0261,
+        "x_time": 50
+      },
+      {
+        "y_noise": 17.3486,
+        "x_time": 51
+      },
+      {
+        "y_noise": 19.9911,
+        "x_time": 52
+      },
+      {
+        "y_noise": 18.2186,
+        "x_time": 53
+      },
+      {
+        "y_noise": 16.9742,
+        "x_time": 54
+      },
+      {
+        "y_noise": 19.6551,
+        "x_time": 55
+      },
+      {
+        "y_noise": 15.2967,
+        "x_time": 56
+      },
+      {
+        "y_noise": 19.879,
+        "x_time": 57
+      },
+      {
+        "y_noise": 17.4431,
+        "x_time": 58
+      },
+      {
+        "y_noise": 18.847,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3d9d171fcec350f364",
+    "index": 17,
+    "current_status": "ok",
+    "country": "UK",
+    "region": "north",
+    "registered": "2014-11-21T10:32:03 -02:00",
+    "guid": "c8b0fe87-5abe-4dbe-a777-2a251efd7acb",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "company": "AT&T",
+    "latitude": 10.689252,
+    "longitude": 73.860514,
+    "chart_data": [
+      {
+        "y_noise": 17.8312,
+        "x_time": 0
+      },
+      {
+        "y_noise": 16.9554,
+        "x_time": 1
+      },
+      {
+        "y_noise": 19.4365,
+        "x_time": 2
+      },
+      {
+        "y_noise": 17.3639,
+        "x_time": 3
+      },
+      {
+        "y_noise": 15.1855,
+        "x_time": 4
+      },
+      {
+        "y_noise": 15.0288,
+        "x_time": 5
+      },
+      {
+        "y_noise": 19.5044,
+        "x_time": 6
+      },
+      {
+        "y_noise": 17.6474,
+        "x_time": 7
+      },
+      {
+        "y_noise": 18.1717,
+        "x_time": 8
+      },
+      {
+        "y_noise": 16.5515,
+        "x_time": 9
+      },
+      {
+        "y_noise": 16.4763,
+        "x_time": 10
+      },
+      {
+        "y_noise": 15.0527,
+        "x_time": 11
+      },
+      {
+        "y_noise": 15.9318,
+        "x_time": 12
+      },
+      {
+        "y_noise": 16.9088,
+        "x_time": 13
+      },
+      {
+        "y_noise": 19.6383,
+        "x_time": 14
+      },
+      {
+        "y_noise": 15.9316,
+        "x_time": 15
+      },
+      {
+        "y_noise": 19.3875,
+        "x_time": 16
+      },
+      {
+        "y_noise": 15.5075,
+        "x_time": 17
+      },
+      {
+        "y_noise": 16.1574,
+        "x_time": 18
+      },
+      {
+        "y_noise": 15.5924,
+        "x_time": 19
+      },
+      {
+        "y_noise": 16.4611,
+        "x_time": 20
+      },
+      {
+        "y_noise": 16.2204,
+        "x_time": 21
+      },
+      {
+        "y_noise": 16.2239,
+        "x_time": 22
+      },
+      {
+        "y_noise": 19.6064,
+        "x_time": 23
+      },
+      {
+        "y_noise": 16.2667,
+        "x_time": 24
+      },
+      {
+        "y_noise": 16.6595,
+        "x_time": 25
+      },
+      {
+        "y_noise": 19.3983,
+        "x_time": 26
+      },
+      {
+        "y_noise": 19.3207,
+        "x_time": 27
+      },
+      {
+        "y_noise": 18.9369,
+        "x_time": 28
+      },
+      {
+        "y_noise": 19.2959,
+        "x_time": 29
+      },
+      {
+        "y_noise": 18.1221,
+        "x_time": 30
+      },
+      {
+        "y_noise": 16.5653,
+        "x_time": 31
+      },
+      {
+        "y_noise": 16.5834,
+        "x_time": 32
+      },
+      {
+        "y_noise": 17.5115,
+        "x_time": 33
+      },
+      {
+        "y_noise": 16.9445,
+        "x_time": 34
+      },
+      {
+        "y_noise": 19.0162,
+        "x_time": 35
+      },
+      {
+        "y_noise": 18.2136,
+        "x_time": 36
+      },
+      {
+        "y_noise": 16.4336,
+        "x_time": 37
+      },
+      {
+        "y_noise": 15.5291,
+        "x_time": 38
+      },
+      {
+        "y_noise": 16.6972,
+        "x_time": 39
+      },
+      {
+        "y_noise": 19.4196,
+        "x_time": 40
+      },
+      {
+        "y_noise": 18.6336,
+        "x_time": 41
+      },
+      {
+        "y_noise": 15.9402,
+        "x_time": 42
+      },
+      {
+        "y_noise": 19.145,
+        "x_time": 43
+      },
+      {
+        "y_noise": 16.7446,
+        "x_time": 44
+      },
+      {
+        "y_noise": 18.7897,
+        "x_time": 45
+      },
+      {
+        "y_noise": 15.2656,
+        "x_time": 46
+      },
+      {
+        "y_noise": 19.608,
+        "x_time": 47
+      },
+      {
+        "y_noise": 15.0622,
+        "x_time": 48
+      },
+      {
+        "y_noise": 16.6775,
+        "x_time": 49
+      },
+      {
+        "y_noise": 18.3598,
+        "x_time": 50
+      },
+      {
+        "y_noise": 18.8085,
+        "x_time": 51
+      },
+      {
+        "y_noise": 18.7588,
+        "x_time": 52
+      },
+      {
+        "y_noise": 17.8639,
+        "x_time": 53
+      },
+      {
+        "y_noise": 16.1115,
+        "x_time": 54
+      },
+      {
+        "y_noise": 17.7977,
+        "x_time": 55
+      },
+      {
+        "y_noise": 17.6464,
+        "x_time": 56
+      },
+      {
+        "y_noise": 18.9599,
+        "x_time": 57
+      },
+      {
+        "y_noise": 18.9165,
+        "x_time": 58
+      },
+      {
+        "y_noise": 16.9168,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3ddb8876749a849b6a",
+    "index": 18,
+    "current_status": "error",
+    "country": "US",
+    "region": "north",
+    "registered": "2014-02-24T06:22:30 -02:00",
+    "guid": "dab466f1-ca9a-4d4e-95bf-510c5aee6892",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "company": "AT&T",
+    "latitude": -72.492025,
+    "longitude": 121.416597,
+    "chart_data": [
+      {
+        "y_noise": 17.8718,
+        "x_time": 0
+      },
+      {
+        "y_noise": 19.4615,
+        "x_time": 1
+      },
+      {
+        "y_noise": 18.1184,
+        "x_time": 2
+      },
+      {
+        "y_noise": 15.4111,
+        "x_time": 3
+      },
+      {
+        "y_noise": 18.1071,
+        "x_time": 4
+      },
+      {
+        "y_noise": 16.0549,
+        "x_time": 5
+      },
+      {
+        "y_noise": 16.6685,
+        "x_time": 6
+      },
+      {
+        "y_noise": 16.8303,
+        "x_time": 7
+      },
+      {
+        "y_noise": 19.2601,
+        "x_time": 8
+      },
+      {
+        "y_noise": 17.7395,
+        "x_time": 9
+      },
+      {
+        "y_noise": 17.9135,
+        "x_time": 10
+      },
+      {
+        "y_noise": 15.8177,
+        "x_time": 11
+      },
+      {
+        "y_noise": 15.1723,
+        "x_time": 12
+      },
+      {
+        "y_noise": 16.8001,
+        "x_time": 13
+      },
+      {
+        "y_noise": 18.603,
+        "x_time": 14
+      },
+      {
+        "y_noise": 19.1279,
+        "x_time": 15
+      },
+      {
+        "y_noise": 19.0035,
+        "x_time": 16
+      },
+      {
+        "y_noise": 19.2644,
+        "x_time": 17
+      },
+      {
+        "y_noise": 18.9943,
+        "x_time": 18
+      },
+      {
+        "y_noise": 18.3726,
+        "x_time": 19
+      },
+      {
+        "y_noise": 18.3079,
+        "x_time": 20
+      },
+      {
+        "y_noise": 17.8488,
+        "x_time": 21
+      },
+      {
+        "y_noise": 19.6544,
+        "x_time": 22
+      },
+      {
+        "y_noise": 17.1254,
+        "x_time": 23
+      },
+      {
+        "y_noise": 15.0737,
+        "x_time": 24
+      },
+      {
+        "y_noise": 15.0826,
+        "x_time": 25
+      },
+      {
+        "y_noise": 15.1171,
+        "x_time": 26
+      },
+      {
+        "y_noise": 17.2256,
+        "x_time": 27
+      },
+      {
+        "y_noise": 16.4465,
+        "x_time": 28
+      },
+      {
+        "y_noise": 19.106,
+        "x_time": 29
+      },
+      {
+        "y_noise": 18.2749,
+        "x_time": 30
+      },
+      {
+        "y_noise": 16.7367,
+        "x_time": 31
+      },
+      {
+        "y_noise": 16.1777,
+        "x_time": 32
+      },
+      {
+        "y_noise": 17.1787,
+        "x_time": 33
+      },
+      {
+        "y_noise": 15.6476,
+        "x_time": 34
+      },
+      {
+        "y_noise": 17.5991,
+        "x_time": 35
+      },
+      {
+        "y_noise": 16.3686,
+        "x_time": 36
+      },
+      {
+        "y_noise": 18.0222,
+        "x_time": 37
+      },
+      {
+        "y_noise": 16.1577,
+        "x_time": 38
+      },
+      {
+        "y_noise": 15.067,
+        "x_time": 39
+      },
+      {
+        "y_noise": 19.2813,
+        "x_time": 40
+      },
+      {
+        "y_noise": 18.6339,
+        "x_time": 41
+      },
+      {
+        "y_noise": 15.8886,
+        "x_time": 42
+      },
+      {
+        "y_noise": 18.4561,
+        "x_time": 43
+      },
+      {
+        "y_noise": 15.714,
+        "x_time": 44
+      },
+      {
+        "y_noise": 19.877,
+        "x_time": 45
+      },
+      {
+        "y_noise": 15.2453,
+        "x_time": 46
+      },
+      {
+        "y_noise": 18.1431,
+        "x_time": 47
+      },
+      {
+        "y_noise": 16.2518,
+        "x_time": 48
+      },
+      {
+        "y_noise": 18.5348,
+        "x_time": 49
+      },
+      {
+        "y_noise": 18.177,
+        "x_time": 50
+      },
+      {
+        "y_noise": 17.7423,
+        "x_time": 51
+      },
+      {
+        "y_noise": 19.1998,
+        "x_time": 52
+      },
+      {
+        "y_noise": 19.7348,
+        "x_time": 53
+      },
+      {
+        "y_noise": 17.6393,
+        "x_time": 54
+      },
+      {
+        "y_noise": 17.2516,
+        "x_time": 55
+      },
+      {
+        "y_noise": 16.729,
+        "x_time": 56
+      },
+      {
+        "y_noise": 17.4786,
+        "x_time": 57
+      },
+      {
+        "y_noise": 17.7969,
+        "x_time": 58
+      },
+      {
+        "y_noise": 18.235,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3d8e4c8cfe8f80634a",
+    "index": 19,
+    "current_status": "error",
+    "country": "UK",
+    "region": "west",
+    "registered": "2015-04-18T09:14:11 -03:00",
+    "guid": "670cae0e-cb21-4c91-80d7-4325847c9331",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "company": "Cellcom",
+    "latitude": -62.921534,
+    "longitude": 42.28786,
+    "chart_data": [
+      {
+        "y_noise": 15.2174,
+        "x_time": 0
+      },
+      {
+        "y_noise": 15.5641,
+        "x_time": 1
+      },
+      {
+        "y_noise": 16.5501,
+        "x_time": 2
+      },
+      {
+        "y_noise": 17.0301,
+        "x_time": 3
+      },
+      {
+        "y_noise": 17.4961,
+        "x_time": 4
+      },
+      {
+        "y_noise": 19.4351,
+        "x_time": 5
+      },
+      {
+        "y_noise": 17.9242,
+        "x_time": 6
+      },
+      {
+        "y_noise": 18.1776,
+        "x_time": 7
+      },
+      {
+        "y_noise": 18.579,
+        "x_time": 8
+      },
+      {
+        "y_noise": 16.0272,
+        "x_time": 9
+      },
+      {
+        "y_noise": 18.6665,
+        "x_time": 10
+      },
+      {
+        "y_noise": 19.2575,
+        "x_time": 11
+      },
+      {
+        "y_noise": 19.7555,
+        "x_time": 12
+      },
+      {
+        "y_noise": 15.2654,
+        "x_time": 13
+      },
+      {
+        "y_noise": 15.0591,
+        "x_time": 14
+      },
+      {
+        "y_noise": 15.9754,
+        "x_time": 15
+      },
+      {
+        "y_noise": 19.0234,
+        "x_time": 16
+      },
+      {
+        "y_noise": 18.2831,
+        "x_time": 17
+      },
+      {
+        "y_noise": 15.7924,
+        "x_time": 18
+      },
+      {
+        "y_noise": 19.2693,
+        "x_time": 19
+      },
+      {
+        "y_noise": 18.3833,
+        "x_time": 20
+      },
+      {
+        "y_noise": 16.4806,
+        "x_time": 21
+      },
+      {
+        "y_noise": 17.7611,
+        "x_time": 22
+      },
+      {
+        "y_noise": 17.6415,
+        "x_time": 23
+      },
+      {
+        "y_noise": 16.7724,
+        "x_time": 24
+      },
+      {
+        "y_noise": 19.9469,
+        "x_time": 25
+      },
+      {
+        "y_noise": 16.0834,
+        "x_time": 26
+      },
+      {
+        "y_noise": 16.9854,
+        "x_time": 27
+      },
+      {
+        "y_noise": 16.2779,
+        "x_time": 28
+      },
+      {
+        "y_noise": 18.8365,
+        "x_time": 29
+      },
+      {
+        "y_noise": 19.5714,
+        "x_time": 30
+      },
+      {
+        "y_noise": 19.7346,
+        "x_time": 31
+      },
+      {
+        "y_noise": 19.3026,
+        "x_time": 32
+      },
+      {
+        "y_noise": 19.2206,
+        "x_time": 33
+      },
+      {
+        "y_noise": 15.8693,
+        "x_time": 34
+      },
+      {
+        "y_noise": 19.5642,
+        "x_time": 35
+      },
+      {
+        "y_noise": 15.4735,
+        "x_time": 36
+      },
+      {
+        "y_noise": 18.0413,
+        "x_time": 37
+      },
+      {
+        "y_noise": 15.8381,
+        "x_time": 38
+      },
+      {
+        "y_noise": 16.9714,
+        "x_time": 39
+      },
+      {
+        "y_noise": 19.1355,
+        "x_time": 40
+      },
+      {
+        "y_noise": 19.909,
+        "x_time": 41
+      },
+      {
+        "y_noise": 17.0387,
+        "x_time": 42
+      },
+      {
+        "y_noise": 16.7973,
+        "x_time": 43
+      },
+      {
+        "y_noise": 18.7359,
+        "x_time": 44
+      },
+      {
+        "y_noise": 19.6995,
+        "x_time": 45
+      },
+      {
+        "y_noise": 19.7586,
+        "x_time": 46
+      },
+      {
+        "y_noise": 15.4101,
+        "x_time": 47
+      },
+      {
+        "y_noise": 16.1916,
+        "x_time": 48
+      },
+      {
+        "y_noise": 16.3095,
+        "x_time": 49
+      },
+      {
+        "y_noise": 18.4521,
+        "x_time": 50
+      },
+      {
+        "y_noise": 17.2363,
+        "x_time": 51
+      },
+      {
+        "y_noise": 19.6014,
+        "x_time": 52
+      },
+      {
+        "y_noise": 15.7569,
+        "x_time": 53
+      },
+      {
+        "y_noise": 19.4715,
+        "x_time": 54
+      },
+      {
+        "y_noise": 19.629,
+        "x_time": 55
+      },
+      {
+        "y_noise": 18.816,
+        "x_time": 56
+      },
+      {
+        "y_noise": 19.4306,
+        "x_time": 57
+      },
+      {
+        "y_noise": 17.1281,
+        "x_time": 58
+      },
+      {
+        "y_noise": 17.6417,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3dc71480e858e9f4f1",
+    "index": 20,
+    "current_status": "error",
+    "country": "UK",
+    "region": "north",
+    "registered": "2014-06-16T12:32:55 -03:00",
+    "guid": "e5ead386-b319-43fc-a72c-c16c1b360815",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "company": "Verizon",
+    "latitude": 43.850254,
+    "longitude": 76.090995,
+    "chart_data": [
+      {
+        "y_noise": 16.3981,
+        "x_time": 0
+      },
+      {
+        "y_noise": 19.7754,
+        "x_time": 1
+      },
+      {
+        "y_noise": 19.1929,
+        "x_time": 2
+      },
+      {
+        "y_noise": 15.4602,
+        "x_time": 3
+      },
+      {
+        "y_noise": 18.7603,
+        "x_time": 4
+      },
+      {
+        "y_noise": 19.6263,
+        "x_time": 5
+      },
+      {
+        "y_noise": 15.303,
+        "x_time": 6
+      },
+      {
+        "y_noise": 19.0442,
+        "x_time": 7
+      },
+      {
+        "y_noise": 18.9753,
+        "x_time": 8
+      },
+      {
+        "y_noise": 17.5121,
+        "x_time": 9
+      },
+      {
+        "y_noise": 17.7475,
+        "x_time": 10
+      },
+      {
+        "y_noise": 17.3843,
+        "x_time": 11
+      },
+      {
+        "y_noise": 18.3763,
+        "x_time": 12
+      },
+      {
+        "y_noise": 15.4403,
+        "x_time": 13
+      },
+      {
+        "y_noise": 15.197,
+        "x_time": 14
+      },
+      {
+        "y_noise": 17.5561,
+        "x_time": 15
+      },
+      {
+        "y_noise": 15.9334,
+        "x_time": 16
+      },
+      {
+        "y_noise": 16.1408,
+        "x_time": 17
+      },
+      {
+        "y_noise": 15.4892,
+        "x_time": 18
+      },
+      {
+        "y_noise": 17.1884,
+        "x_time": 19
+      },
+      {
+        "y_noise": 16.8135,
+        "x_time": 20
+      },
+      {
+        "y_noise": 15.7438,
+        "x_time": 21
+      },
+      {
+        "y_noise": 18.4804,
+        "x_time": 22
+      },
+      {
+        "y_noise": 17.7647,
+        "x_time": 23
+      },
+      {
+        "y_noise": 17.1561,
+        "x_time": 24
+      },
+      {
+        "y_noise": 19.2565,
+        "x_time": 25
+      },
+      {
+        "y_noise": 16.9732,
+        "x_time": 26
+      },
+      {
+        "y_noise": 16.1983,
+        "x_time": 27
+      },
+      {
+        "y_noise": 18.4784,
+        "x_time": 28
+      },
+      {
+        "y_noise": 16.9527,
+        "x_time": 29
+      },
+      {
+        "y_noise": 15.7814,
+        "x_time": 30
+      },
+      {
+        "y_noise": 19.6162,
+        "x_time": 31
+      },
+      {
+        "y_noise": 17.735,
+        "x_time": 32
+      },
+      {
+        "y_noise": 17.712,
+        "x_time": 33
+      },
+      {
+        "y_noise": 16.7693,
+        "x_time": 34
+      },
+      {
+        "y_noise": 19.2553,
+        "x_time": 35
+      },
+      {
+        "y_noise": 15.2014,
+        "x_time": 36
+      },
+      {
+        "y_noise": 16.8417,
+        "x_time": 37
+      },
+      {
+        "y_noise": 19.1618,
+        "x_time": 38
+      },
+      {
+        "y_noise": 19.7922,
+        "x_time": 39
+      },
+      {
+        "y_noise": 16.893,
+        "x_time": 40
+      },
+      {
+        "y_noise": 19.0638,
+        "x_time": 41
+      },
+      {
+        "y_noise": 18.7337,
+        "x_time": 42
+      },
+      {
+        "y_noise": 15.4311,
+        "x_time": 43
+      },
+      {
+        "y_noise": 19.1941,
+        "x_time": 44
+      },
+      {
+        "y_noise": 17.8219,
+        "x_time": 45
+      },
+      {
+        "y_noise": 19.1466,
+        "x_time": 46
+      },
+      {
+        "y_noise": 15.4616,
+        "x_time": 47
+      },
+      {
+        "y_noise": 19.8836,
+        "x_time": 48
+      },
+      {
+        "y_noise": 19.1636,
+        "x_time": 49
+      },
+      {
+        "y_noise": 17.0954,
+        "x_time": 50
+      },
+      {
+        "y_noise": 18.6481,
+        "x_time": 51
+      },
+      {
+        "y_noise": 16.661,
+        "x_time": 52
+      },
+      {
+        "y_noise": 15.5016,
+        "x_time": 53
+      },
+      {
+        "y_noise": 15.0035,
+        "x_time": 54
+      },
+      {
+        "y_noise": 18.5866,
+        "x_time": 55
+      },
+      {
+        "y_noise": 18.7437,
+        "x_time": 56
+      },
+      {
+        "y_noise": 15.8447,
+        "x_time": 57
+      },
+      {
+        "y_noise": 16.4962,
+        "x_time": 58
+      },
+      {
+        "y_noise": 19.7444,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3d05cc502a82a16bb6",
+    "index": 21,
+    "current_status": "ok",
+    "country": "US",
+    "region": "north",
+    "registered": "2015-08-16T08:32:41 -03:00",
+    "guid": "ec60a19d-57e8-4660-88f2-1e738f3271f0",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "company": "Verizon",
+    "latitude": 32.134366,
+    "longitude": -164.777667,
+    "chart_data": [
+      {
+        "y_noise": 16.9773,
+        "x_time": 0
+      },
+      {
+        "y_noise": 19.3669,
+        "x_time": 1
+      },
+      {
+        "y_noise": 17.0441,
+        "x_time": 2
+      },
+      {
+        "y_noise": 19.8302,
+        "x_time": 3
+      },
+      {
+        "y_noise": 17.7247,
+        "x_time": 4
+      },
+      {
+        "y_noise": 16.7237,
+        "x_time": 5
+      },
+      {
+        "y_noise": 16.1461,
+        "x_time": 6
+      },
+      {
+        "y_noise": 17.3412,
+        "x_time": 7
+      },
+      {
+        "y_noise": 15.5611,
+        "x_time": 8
+      },
+      {
+        "y_noise": 18.4868,
+        "x_time": 9
+      },
+      {
+        "y_noise": 19.2948,
+        "x_time": 10
+      },
+      {
+        "y_noise": 18.3963,
+        "x_time": 11
+      },
+      {
+        "y_noise": 15.5081,
+        "x_time": 12
+      },
+      {
+        "y_noise": 17.4052,
+        "x_time": 13
+      },
+      {
+        "y_noise": 15.3568,
+        "x_time": 14
+      },
+      {
+        "y_noise": 19.7017,
+        "x_time": 15
+      },
+      {
+        "y_noise": 15.0962,
+        "x_time": 16
+      },
+      {
+        "y_noise": 16.0716,
+        "x_time": 17
+      },
+      {
+        "y_noise": 18.1239,
+        "x_time": 18
+      },
+      {
+        "y_noise": 19.38,
+        "x_time": 19
+      },
+      {
+        "y_noise": 15.444,
+        "x_time": 20
+      },
+      {
+        "y_noise": 17.1888,
+        "x_time": 21
+      },
+      {
+        "y_noise": 18.507,
+        "x_time": 22
+      },
+      {
+        "y_noise": 18.5835,
+        "x_time": 23
+      },
+      {
+        "y_noise": 16.5893,
+        "x_time": 24
+      },
+      {
+        "y_noise": 18.6425,
+        "x_time": 25
+      },
+      {
+        "y_noise": 15.0727,
+        "x_time": 26
+      },
+      {
+        "y_noise": 16.4138,
+        "x_time": 27
+      },
+      {
+        "y_noise": 18.9058,
+        "x_time": 28
+      },
+      {
+        "y_noise": 18.2913,
+        "x_time": 29
+      },
+      {
+        "y_noise": 18.463,
+        "x_time": 30
+      },
+      {
+        "y_noise": 19.6614,
+        "x_time": 31
+      },
+      {
+        "y_noise": 18.16,
+        "x_time": 32
+      },
+      {
+        "y_noise": 15.0943,
+        "x_time": 33
+      },
+      {
+        "y_noise": 16.086,
+        "x_time": 34
+      },
+      {
+        "y_noise": 17.936,
+        "x_time": 35
+      },
+      {
+        "y_noise": 16.6747,
+        "x_time": 36
+      },
+      {
+        "y_noise": 18.7699,
+        "x_time": 37
+      },
+      {
+        "y_noise": 17.5957,
+        "x_time": 38
+      },
+      {
+        "y_noise": 19.8107,
+        "x_time": 39
+      },
+      {
+        "y_noise": 19.8683,
+        "x_time": 40
+      },
+      {
+        "y_noise": 19.3844,
+        "x_time": 41
+      },
+      {
+        "y_noise": 17.9565,
+        "x_time": 42
+      },
+      {
+        "y_noise": 15.3778,
+        "x_time": 43
+      },
+      {
+        "y_noise": 17.6219,
+        "x_time": 44
+      },
+      {
+        "y_noise": 18.1086,
+        "x_time": 45
+      },
+      {
+        "y_noise": 18.143,
+        "x_time": 46
+      },
+      {
+        "y_noise": 15.1481,
+        "x_time": 47
+      },
+      {
+        "y_noise": 16.381,
+        "x_time": 48
+      },
+      {
+        "y_noise": 16.9113,
+        "x_time": 49
+      },
+      {
+        "y_noise": 15.1559,
+        "x_time": 50
+      },
+      {
+        "y_noise": 16.5232,
+        "x_time": 51
+      },
+      {
+        "y_noise": 16.3382,
+        "x_time": 52
+      },
+      {
+        "y_noise": 19.9016,
+        "x_time": 53
+      },
+      {
+        "y_noise": 19.5574,
+        "x_time": 54
+      },
+      {
+        "y_noise": 18.2965,
+        "x_time": 55
+      },
+      {
+        "y_noise": 17.3536,
+        "x_time": 56
+      },
+      {
+        "y_noise": 15.5442,
+        "x_time": 57
+      },
+      {
+        "y_noise": 17.9396,
+        "x_time": 58
+      },
+      {
+        "y_noise": 16.3499,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3d290a5b4f5a6c322e",
+    "index": 22,
+    "current_status": "ok",
+    "country": "UK",
+    "region": "east",
+    "registered": "2015-02-12T08:21:41 -02:00",
+    "guid": "ab88df64-61cf-4fe2-a62e-beed48b4dca0",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "company": "AT&T",
+    "latitude": 54.411013,
+    "longitude": 63.582845,
+    "chart_data": [
+      {
+        "y_noise": 18.4866,
+        "x_time": 0
+      },
+      {
+        "y_noise": 19.3969,
+        "x_time": 1
+      },
+      {
+        "y_noise": 19.719,
+        "x_time": 2
+      },
+      {
+        "y_noise": 16.7449,
+        "x_time": 3
+      },
+      {
+        "y_noise": 18.9341,
+        "x_time": 4
+      },
+      {
+        "y_noise": 18.5506,
+        "x_time": 5
+      },
+      {
+        "y_noise": 18.488,
+        "x_time": 6
+      },
+      {
+        "y_noise": 15.5789,
+        "x_time": 7
+      },
+      {
+        "y_noise": 19.6564,
+        "x_time": 8
+      },
+      {
+        "y_noise": 17.438,
+        "x_time": 9
+      },
+      {
+        "y_noise": 16.106,
+        "x_time": 10
+      },
+      {
+        "y_noise": 17.951,
+        "x_time": 11
+      },
+      {
+        "y_noise": 17.1536,
+        "x_time": 12
+      },
+      {
+        "y_noise": 18.5697,
+        "x_time": 13
+      },
+      {
+        "y_noise": 18.2687,
+        "x_time": 14
+      },
+      {
+        "y_noise": 16.1989,
+        "x_time": 15
+      },
+      {
+        "y_noise": 18.12,
+        "x_time": 16
+      },
+      {
+        "y_noise": 18.2288,
+        "x_time": 17
+      },
+      {
+        "y_noise": 16.1311,
+        "x_time": 18
+      },
+      {
+        "y_noise": 15.2184,
+        "x_time": 19
+      },
+      {
+        "y_noise": 19.2841,
+        "x_time": 20
+      },
+      {
+        "y_noise": 19.2281,
+        "x_time": 21
+      },
+      {
+        "y_noise": 15.8429,
+        "x_time": 22
+      },
+      {
+        "y_noise": 19.6473,
+        "x_time": 23
+      },
+      {
+        "y_noise": 19.1605,
+        "x_time": 24
+      },
+      {
+        "y_noise": 16.8352,
+        "x_time": 25
+      },
+      {
+        "y_noise": 17.8108,
+        "x_time": 26
+      },
+      {
+        "y_noise": 19.4452,
+        "x_time": 27
+      },
+      {
+        "y_noise": 15.7909,
+        "x_time": 28
+      },
+      {
+        "y_noise": 16.3896,
+        "x_time": 29
+      },
+      {
+        "y_noise": 17.1848,
+        "x_time": 30
+      },
+      {
+        "y_noise": 15.5803,
+        "x_time": 31
+      },
+      {
+        "y_noise": 18.8863,
+        "x_time": 32
+      },
+      {
+        "y_noise": 17.2891,
+        "x_time": 33
+      },
+      {
+        "y_noise": 17.4818,
+        "x_time": 34
+      },
+      {
+        "y_noise": 15.8973,
+        "x_time": 35
+      },
+      {
+        "y_noise": 19.6114,
+        "x_time": 36
+      },
+      {
+        "y_noise": 16.6212,
+        "x_time": 37
+      },
+      {
+        "y_noise": 19.0896,
+        "x_time": 38
+      },
+      {
+        "y_noise": 17.7452,
+        "x_time": 39
+      },
+      {
+        "y_noise": 15.6911,
+        "x_time": 40
+      },
+      {
+        "y_noise": 17.8671,
+        "x_time": 41
+      },
+      {
+        "y_noise": 19.7615,
+        "x_time": 42
+      },
+      {
+        "y_noise": 17.694,
+        "x_time": 43
+      },
+      {
+        "y_noise": 17.1741,
+        "x_time": 44
+      },
+      {
+        "y_noise": 18.53,
+        "x_time": 45
+      },
+      {
+        "y_noise": 16.7692,
+        "x_time": 46
+      },
+      {
+        "y_noise": 17.073,
+        "x_time": 47
+      },
+      {
+        "y_noise": 15.2883,
+        "x_time": 48
+      },
+      {
+        "y_noise": 19.0585,
+        "x_time": 49
+      },
+      {
+        "y_noise": 16.5486,
+        "x_time": 50
+      },
+      {
+        "y_noise": 18.7605,
+        "x_time": 51
+      },
+      {
+        "y_noise": 18.1927,
+        "x_time": 52
+      },
+      {
+        "y_noise": 15.486,
+        "x_time": 53
+      },
+      {
+        "y_noise": 19.6347,
+        "x_time": 54
+      },
+      {
+        "y_noise": 17.2636,
+        "x_time": 55
+      },
+      {
+        "y_noise": 16.8684,
+        "x_time": 56
+      },
+      {
+        "y_noise": 16.0101,
+        "x_time": 57
+      },
+      {
+        "y_noise": 18.8624,
+        "x_time": 58
+      },
+      {
+        "y_noise": 16.6789,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3dd5b80483f604cfeb",
+    "index": 23,
+    "current_status": "error",
+    "country": "US",
+    "region": "north",
+    "registered": "2014-12-11T10:02:36 -02:00",
+    "guid": "15319b9a-698d-4d7d-93ae-807354a2df45",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "company": "Cellcom",
+    "latitude": -66.057,
+    "longitude": 14.438273,
+    "chart_data": [
+      {
+        "y_noise": 15.5506,
+        "x_time": 0
+      },
+      {
+        "y_noise": 19.2715,
+        "x_time": 1
+      },
+      {
+        "y_noise": 18.5525,
+        "x_time": 2
+      },
+      {
+        "y_noise": 17.6264,
+        "x_time": 3
+      },
+      {
+        "y_noise": 19.7973,
+        "x_time": 4
+      },
+      {
+        "y_noise": 19.3223,
+        "x_time": 5
+      },
+      {
+        "y_noise": 17.7619,
+        "x_time": 6
+      },
+      {
+        "y_noise": 16.6632,
+        "x_time": 7
+      },
+      {
+        "y_noise": 16.6971,
+        "x_time": 8
+      },
+      {
+        "y_noise": 18.0121,
+        "x_time": 9
+      },
+      {
+        "y_noise": 18.8118,
+        "x_time": 10
+      },
+      {
+        "y_noise": 19.5325,
+        "x_time": 11
+      },
+      {
+        "y_noise": 19.7297,
+        "x_time": 12
+      },
+      {
+        "y_noise": 19.5354,
+        "x_time": 13
+      },
+      {
+        "y_noise": 16.0505,
+        "x_time": 14
+      },
+      {
+        "y_noise": 17.9656,
+        "x_time": 15
+      },
+      {
+        "y_noise": 16.0777,
+        "x_time": 16
+      },
+      {
+        "y_noise": 18.6158,
+        "x_time": 17
+      },
+      {
+        "y_noise": 19.5108,
+        "x_time": 18
+      },
+      {
+        "y_noise": 17.2915,
+        "x_time": 19
+      },
+      {
+        "y_noise": 15.9843,
+        "x_time": 20
+      },
+      {
+        "y_noise": 19.5487,
+        "x_time": 21
+      },
+      {
+        "y_noise": 16.2624,
+        "x_time": 22
+      },
+      {
+        "y_noise": 19.6112,
+        "x_time": 23
+      },
+      {
+        "y_noise": 18.4547,
+        "x_time": 24
+      },
+      {
+        "y_noise": 15.0862,
+        "x_time": 25
+      },
+      {
+        "y_noise": 15.6995,
+        "x_time": 26
+      },
+      {
+        "y_noise": 19.1372,
+        "x_time": 27
+      },
+      {
+        "y_noise": 16.5412,
+        "x_time": 28
+      },
+      {
+        "y_noise": 15.6947,
+        "x_time": 29
+      },
+      {
+        "y_noise": 17.532,
+        "x_time": 30
+      },
+      {
+        "y_noise": 17.5908,
+        "x_time": 31
+      },
+      {
+        "y_noise": 16.6049,
+        "x_time": 32
+      },
+      {
+        "y_noise": 19.8474,
+        "x_time": 33
+      },
+      {
+        "y_noise": 17.2813,
+        "x_time": 34
+      },
+      {
+        "y_noise": 16.0614,
+        "x_time": 35
+      },
+      {
+        "y_noise": 15.0851,
+        "x_time": 36
+      },
+      {
+        "y_noise": 19.5794,
+        "x_time": 37
+      },
+      {
+        "y_noise": 15.0298,
+        "x_time": 38
+      },
+      {
+        "y_noise": 18.0799,
+        "x_time": 39
+      },
+      {
+        "y_noise": 16.0716,
+        "x_time": 40
+      },
+      {
+        "y_noise": 18.4289,
+        "x_time": 41
+      },
+      {
+        "y_noise": 19.0574,
+        "x_time": 42
+      },
+      {
+        "y_noise": 16.6069,
+        "x_time": 43
+      },
+      {
+        "y_noise": 16.7037,
+        "x_time": 44
+      },
+      {
+        "y_noise": 15.9526,
+        "x_time": 45
+      },
+      {
+        "y_noise": 16.9738,
+        "x_time": 46
+      },
+      {
+        "y_noise": 16.1221,
+        "x_time": 47
+      },
+      {
+        "y_noise": 18.5865,
+        "x_time": 48
+      },
+      {
+        "y_noise": 16.1283,
+        "x_time": 49
+      },
+      {
+        "y_noise": 15.796,
+        "x_time": 50
+      },
+      {
+        "y_noise": 18.5007,
+        "x_time": 51
+      },
+      {
+        "y_noise": 19.0272,
+        "x_time": 52
+      },
+      {
+        "y_noise": 17.069,
+        "x_time": 53
+      },
+      {
+        "y_noise": 18.6916,
+        "x_time": 54
+      },
+      {
+        "y_noise": 16.5939,
+        "x_time": 55
+      },
+      {
+        "y_noise": 17.4106,
+        "x_time": 56
+      },
+      {
+        "y_noise": 17.8059,
+        "x_time": 57
+      },
+      {
+        "y_noise": 15.5347,
+        "x_time": 58
+      },
+      {
+        "y_noise": 16.2885,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3dcd44e2d5dcd182dd",
+    "index": 24,
+    "current_status": "ok",
+    "country": "US",
+    "region": "center",
+    "registered": "2015-03-25T07:50:16 -02:00",
+    "guid": "a9cebdc8-cdcc-4e3c-b083-ea4ec83cfd9f",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "company": "Cellcom",
+    "latitude": -74.561894,
+    "longitude": 0.815579,
+    "chart_data": [
+      {
+        "y_noise": 19.2197,
+        "x_time": 0
+      },
+      {
+        "y_noise": 18.1817,
+        "x_time": 1
+      },
+      {
+        "y_noise": 17.8728,
+        "x_time": 2
+      },
+      {
+        "y_noise": 17.4115,
+        "x_time": 3
+      },
+      {
+        "y_noise": 18.1172,
+        "x_time": 4
+      },
+      {
+        "y_noise": 18.1818,
+        "x_time": 5
+      },
+      {
+        "y_noise": 18.4293,
+        "x_time": 6
+      },
+      {
+        "y_noise": 15.4841,
+        "x_time": 7
+      },
+      {
+        "y_noise": 18.9347,
+        "x_time": 8
+      },
+      {
+        "y_noise": 15.068,
+        "x_time": 9
+      },
+      {
+        "y_noise": 17.24,
+        "x_time": 10
+      },
+      {
+        "y_noise": 16.0737,
+        "x_time": 11
+      },
+      {
+        "y_noise": 16.714,
+        "x_time": 12
+      },
+      {
+        "y_noise": 17.3689,
+        "x_time": 13
+      },
+      {
+        "y_noise": 15.7406,
+        "x_time": 14
+      },
+      {
+        "y_noise": 15.5149,
+        "x_time": 15
+      },
+      {
+        "y_noise": 19.4452,
+        "x_time": 16
+      },
+      {
+        "y_noise": 19.2996,
+        "x_time": 17
+      },
+      {
+        "y_noise": 18.602,
+        "x_time": 18
+      },
+      {
+        "y_noise": 19.8697,
+        "x_time": 19
+      },
+      {
+        "y_noise": 18.6403,
+        "x_time": 20
+      },
+      {
+        "y_noise": 16.0834,
+        "x_time": 21
+      },
+      {
+        "y_noise": 15.2504,
+        "x_time": 22
+      },
+      {
+        "y_noise": 19.7792,
+        "x_time": 23
+      },
+      {
+        "y_noise": 16.9683,
+        "x_time": 24
+      },
+      {
+        "y_noise": 17.6173,
+        "x_time": 25
+      },
+      {
+        "y_noise": 19.2919,
+        "x_time": 26
+      },
+      {
+        "y_noise": 15.713,
+        "x_time": 27
+      },
+      {
+        "y_noise": 17.2243,
+        "x_time": 28
+      },
+      {
+        "y_noise": 18.7415,
+        "x_time": 29
+      },
+      {
+        "y_noise": 15.922,
+        "x_time": 30
+      },
+      {
+        "y_noise": 19.958,
+        "x_time": 31
+      },
+      {
+        "y_noise": 17.2,
+        "x_time": 32
+      },
+      {
+        "y_noise": 15.5835,
+        "x_time": 33
+      },
+      {
+        "y_noise": 16.8368,
+        "x_time": 34
+      },
+      {
+        "y_noise": 15.198,
+        "x_time": 35
+      },
+      {
+        "y_noise": 16.6825,
+        "x_time": 36
+      },
+      {
+        "y_noise": 19.0136,
+        "x_time": 37
+      },
+      {
+        "y_noise": 16.3717,
+        "x_time": 38
+      },
+      {
+        "y_noise": 19.9821,
+        "x_time": 39
+      },
+      {
+        "y_noise": 16.1472,
+        "x_time": 40
+      },
+      {
+        "y_noise": 16.464,
+        "x_time": 41
+      },
+      {
+        "y_noise": 18.989,
+        "x_time": 42
+      },
+      {
+        "y_noise": 19.2347,
+        "x_time": 43
+      },
+      {
+        "y_noise": 19.0617,
+        "x_time": 44
+      },
+      {
+        "y_noise": 19.0331,
+        "x_time": 45
+      },
+      {
+        "y_noise": 18.6589,
+        "x_time": 46
+      },
+      {
+        "y_noise": 16.3227,
+        "x_time": 47
+      },
+      {
+        "y_noise": 16.9342,
+        "x_time": 48
+      },
+      {
+        "y_noise": 17.298,
+        "x_time": 49
+      },
+      {
+        "y_noise": 17.7156,
+        "x_time": 50
+      },
+      {
+        "y_noise": 17.6769,
+        "x_time": 51
+      },
+      {
+        "y_noise": 15.2009,
+        "x_time": 52
+      },
+      {
+        "y_noise": 17.2943,
+        "x_time": 53
+      },
+      {
+        "y_noise": 15.1792,
+        "x_time": 54
+      },
+      {
+        "y_noise": 16.8682,
+        "x_time": 55
+      },
+      {
+        "y_noise": 17.1696,
+        "x_time": 56
+      },
+      {
+        "y_noise": 17.6594,
+        "x_time": 57
+      },
+      {
+        "y_noise": 19.0113,
+        "x_time": 58
+      },
+      {
+        "y_noise": 15.0292,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3d5484c65e647842bd",
+    "index": 25,
+    "current_status": "ok",
+    "country": "US",
+    "region": "center",
+    "registered": "2014-10-17T05:58:46 -03:00",
+    "guid": "d4dadf2f-4535-4f6c-9e71-9aac2fb67919",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "company": "AT&T",
+    "latitude": 71.943506,
+    "longitude": -146.089241,
+    "chart_data": [
+      {
+        "y_noise": 17.4572,
+        "x_time": 0
+      },
+      {
+        "y_noise": 17.1165,
+        "x_time": 1
+      },
+      {
+        "y_noise": 19.2143,
+        "x_time": 2
+      },
+      {
+        "y_noise": 15.7508,
+        "x_time": 3
+      },
+      {
+        "y_noise": 18.8028,
+        "x_time": 4
+      },
+      {
+        "y_noise": 16.248,
+        "x_time": 5
+      },
+      {
+        "y_noise": 19.6562,
+        "x_time": 6
+      },
+      {
+        "y_noise": 18.6673,
+        "x_time": 7
+      },
+      {
+        "y_noise": 17.636,
+        "x_time": 8
+      },
+      {
+        "y_noise": 17.2922,
+        "x_time": 9
+      },
+      {
+        "y_noise": 17.5049,
+        "x_time": 10
+      },
+      {
+        "y_noise": 18.3239,
+        "x_time": 11
+      },
+      {
+        "y_noise": 19.9344,
+        "x_time": 12
+      },
+      {
+        "y_noise": 15.5713,
+        "x_time": 13
+      },
+      {
+        "y_noise": 16.2926,
+        "x_time": 14
+      },
+      {
+        "y_noise": 18.5905,
+        "x_time": 15
+      },
+      {
+        "y_noise": 17.8774,
+        "x_time": 16
+      },
+      {
+        "y_noise": 19.199,
+        "x_time": 17
+      },
+      {
+        "y_noise": 15.5003,
+        "x_time": 18
+      },
+      {
+        "y_noise": 15.9413,
+        "x_time": 19
+      },
+      {
+        "y_noise": 19.0886,
+        "x_time": 20
+      },
+      {
+        "y_noise": 15.1914,
+        "x_time": 21
+      },
+      {
+        "y_noise": 16.5949,
+        "x_time": 22
+      },
+      {
+        "y_noise": 19.1583,
+        "x_time": 23
+      },
+      {
+        "y_noise": 16.4476,
+        "x_time": 24
+      },
+      {
+        "y_noise": 17.3482,
+        "x_time": 25
+      },
+      {
+        "y_noise": 18.2291,
+        "x_time": 26
+      },
+      {
+        "y_noise": 17.2808,
+        "x_time": 27
+      },
+      {
+        "y_noise": 17.7067,
+        "x_time": 28
+      },
+      {
+        "y_noise": 16.3854,
+        "x_time": 29
+      },
+      {
+        "y_noise": 17.5708,
+        "x_time": 30
+      },
+      {
+        "y_noise": 16.5753,
+        "x_time": 31
+      },
+      {
+        "y_noise": 16.8047,
+        "x_time": 32
+      },
+      {
+        "y_noise": 16.5238,
+        "x_time": 33
+      },
+      {
+        "y_noise": 16.5928,
+        "x_time": 34
+      },
+      {
+        "y_noise": 16.0085,
+        "x_time": 35
+      },
+      {
+        "y_noise": 16.4469,
+        "x_time": 36
+      },
+      {
+        "y_noise": 15.477,
+        "x_time": 37
+      },
+      {
+        "y_noise": 17.3518,
+        "x_time": 38
+      },
+      {
+        "y_noise": 17.7863,
+        "x_time": 39
+      },
+      {
+        "y_noise": 17.3384,
+        "x_time": 40
+      },
+      {
+        "y_noise": 15.8037,
+        "x_time": 41
+      },
+      {
+        "y_noise": 17.5952,
+        "x_time": 42
+      },
+      {
+        "y_noise": 16.4289,
+        "x_time": 43
+      },
+      {
+        "y_noise": 15.7609,
+        "x_time": 44
+      },
+      {
+        "y_noise": 15.3008,
+        "x_time": 45
+      },
+      {
+        "y_noise": 18.4328,
+        "x_time": 46
+      },
+      {
+        "y_noise": 15.2034,
+        "x_time": 47
+      },
+      {
+        "y_noise": 18.9281,
+        "x_time": 48
+      },
+      {
+        "y_noise": 15.3154,
+        "x_time": 49
+      },
+      {
+        "y_noise": 17.6649,
+        "x_time": 50
+      },
+      {
+        "y_noise": 18.4026,
+        "x_time": 51
+      },
+      {
+        "y_noise": 19.9207,
+        "x_time": 52
+      },
+      {
+        "y_noise": 18.6764,
+        "x_time": 53
+      },
+      {
+        "y_noise": 17.2625,
+        "x_time": 54
+      },
+      {
+        "y_noise": 17.6906,
+        "x_time": 55
+      },
+      {
+        "y_noise": 15.9611,
+        "x_time": 56
+      },
+      {
+        "y_noise": 16.3102,
+        "x_time": 57
+      },
+      {
+        "y_noise": 15.9408,
+        "x_time": 58
+      },
+      {
+        "y_noise": 19.6824,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3d403cb5c9822be896",
+    "index": 26,
+    "current_status": "ok",
+    "country": "US",
+    "region": "west",
+    "registered": "2014-05-09T04:09:31 -03:00",
+    "guid": "825ad4a5-fd61-4270-a711-7df141350772",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "company": "AT&T",
+    "latitude": 45.68089,
+    "longitude": -106.276053,
+    "chart_data": [
+      {
+        "y_noise": 18.5372,
+        "x_time": 0
+      },
+      {
+        "y_noise": 16.789,
+        "x_time": 1
+      },
+      {
+        "y_noise": 18.1782,
+        "x_time": 2
+      },
+      {
+        "y_noise": 19.7872,
+        "x_time": 3
+      },
+      {
+        "y_noise": 16.8658,
+        "x_time": 4
+      },
+      {
+        "y_noise": 18.5591,
+        "x_time": 5
+      },
+      {
+        "y_noise": 16.9839,
+        "x_time": 6
+      },
+      {
+        "y_noise": 19.1036,
+        "x_time": 7
+      },
+      {
+        "y_noise": 19.7481,
+        "x_time": 8
+      },
+      {
+        "y_noise": 16.2759,
+        "x_time": 9
+      },
+      {
+        "y_noise": 18.1437,
+        "x_time": 10
+      },
+      {
+        "y_noise": 16.5083,
+        "x_time": 11
+      },
+      {
+        "y_noise": 18.2343,
+        "x_time": 12
+      },
+      {
+        "y_noise": 15.5892,
+        "x_time": 13
+      },
+      {
+        "y_noise": 18.7423,
+        "x_time": 14
+      },
+      {
+        "y_noise": 15.2596,
+        "x_time": 15
+      },
+      {
+        "y_noise": 16.268,
+        "x_time": 16
+      },
+      {
+        "y_noise": 19.5364,
+        "x_time": 17
+      },
+      {
+        "y_noise": 18.6685,
+        "x_time": 18
+      },
+      {
+        "y_noise": 15.1281,
+        "x_time": 19
+      },
+      {
+        "y_noise": 15.9517,
+        "x_time": 20
+      },
+      {
+        "y_noise": 16.065,
+        "x_time": 21
+      },
+      {
+        "y_noise": 19.8875,
+        "x_time": 22
+      },
+      {
+        "y_noise": 19.4842,
+        "x_time": 23
+      },
+      {
+        "y_noise": 17.564,
+        "x_time": 24
+      },
+      {
+        "y_noise": 19.4854,
+        "x_time": 25
+      },
+      {
+        "y_noise": 15.4816,
+        "x_time": 26
+      },
+      {
+        "y_noise": 19.519,
+        "x_time": 27
+      },
+      {
+        "y_noise": 19.82,
+        "x_time": 28
+      },
+      {
+        "y_noise": 18.3901,
+        "x_time": 29
+      },
+      {
+        "y_noise": 19.4026,
+        "x_time": 30
+      },
+      {
+        "y_noise": 17.6889,
+        "x_time": 31
+      },
+      {
+        "y_noise": 16.4591,
+        "x_time": 32
+      },
+      {
+        "y_noise": 15.1724,
+        "x_time": 33
+      },
+      {
+        "y_noise": 18.5241,
+        "x_time": 34
+      },
+      {
+        "y_noise": 15.6427,
+        "x_time": 35
+      },
+      {
+        "y_noise": 15.104,
+        "x_time": 36
+      },
+      {
+        "y_noise": 15.9519,
+        "x_time": 37
+      },
+      {
+        "y_noise": 19.3255,
+        "x_time": 38
+      },
+      {
+        "y_noise": 15.5099,
+        "x_time": 39
+      },
+      {
+        "y_noise": 15.6747,
+        "x_time": 40
+      },
+      {
+        "y_noise": 17.1903,
+        "x_time": 41
+      },
+      {
+        "y_noise": 15.5662,
+        "x_time": 42
+      },
+      {
+        "y_noise": 15.0933,
+        "x_time": 43
+      },
+      {
+        "y_noise": 17.6619,
+        "x_time": 44
+      },
+      {
+        "y_noise": 18.4903,
+        "x_time": 45
+      },
+      {
+        "y_noise": 15.9141,
+        "x_time": 46
+      },
+      {
+        "y_noise": 17.3444,
+        "x_time": 47
+      },
+      {
+        "y_noise": 19.3034,
+        "x_time": 48
+      },
+      {
+        "y_noise": 17.6627,
+        "x_time": 49
+      },
+      {
+        "y_noise": 19.0921,
+        "x_time": 50
+      },
+      {
+        "y_noise": 18.2539,
+        "x_time": 51
+      },
+      {
+        "y_noise": 19.1363,
+        "x_time": 52
+      },
+      {
+        "y_noise": 19.5334,
+        "x_time": 53
+      },
+      {
+        "y_noise": 15.4661,
+        "x_time": 54
+      },
+      {
+        "y_noise": 19.4297,
+        "x_time": 55
+      },
+      {
+        "y_noise": 15.7311,
+        "x_time": 56
+      },
+      {
+        "y_noise": 19.4783,
+        "x_time": 57
+      },
+      {
+        "y_noise": 17.0485,
+        "x_time": 58
+      },
+      {
+        "y_noise": 17.5811,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3d753d59cf951de84a",
+    "index": 27,
+    "current_status": "error",
+    "country": "CA",
+    "region": "east",
+    "registered": "2014-02-17T10:45:06 -02:00",
+    "guid": "0297ddb5-240e-4d1a-871c-92e8fa6e528b",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "company": "Cellcom",
+    "latitude": -1.17399,
+    "longitude": -78.528442,
+    "chart_data": [
+      {
+        "y_noise": 17.7176,
+        "x_time": 0
+      },
+      {
+        "y_noise": 17.6817,
+        "x_time": 1
+      },
+      {
+        "y_noise": 15.6593,
+        "x_time": 2
+      },
+      {
+        "y_noise": 19.0609,
+        "x_time": 3
+      },
+      {
+        "y_noise": 15.6692,
+        "x_time": 4
+      },
+      {
+        "y_noise": 17.234,
+        "x_time": 5
+      },
+      {
+        "y_noise": 19.2878,
+        "x_time": 6
+      },
+      {
+        "y_noise": 17.358,
+        "x_time": 7
+      },
+      {
+        "y_noise": 18.7092,
+        "x_time": 8
+      },
+      {
+        "y_noise": 17.8849,
+        "x_time": 9
+      },
+      {
+        "y_noise": 19.8982,
+        "x_time": 10
+      },
+      {
+        "y_noise": 18.5977,
+        "x_time": 11
+      },
+      {
+        "y_noise": 17.486,
+        "x_time": 12
+      },
+      {
+        "y_noise": 17.0861,
+        "x_time": 13
+      },
+      {
+        "y_noise": 16.7414,
+        "x_time": 14
+      },
+      {
+        "y_noise": 15.4489,
+        "x_time": 15
+      },
+      {
+        "y_noise": 19.3281,
+        "x_time": 16
+      },
+      {
+        "y_noise": 17.6572,
+        "x_time": 17
+      },
+      {
+        "y_noise": 18.6816,
+        "x_time": 18
+      },
+      {
+        "y_noise": 15.0072,
+        "x_time": 19
+      },
+      {
+        "y_noise": 16.349,
+        "x_time": 20
+      },
+      {
+        "y_noise": 15.6765,
+        "x_time": 21
+      },
+      {
+        "y_noise": 19.9193,
+        "x_time": 22
+      },
+      {
+        "y_noise": 17.8221,
+        "x_time": 23
+      },
+      {
+        "y_noise": 17.9569,
+        "x_time": 24
+      },
+      {
+        "y_noise": 19.2332,
+        "x_time": 25
+      },
+      {
+        "y_noise": 17.4697,
+        "x_time": 26
+      },
+      {
+        "y_noise": 18.9186,
+        "x_time": 27
+      },
+      {
+        "y_noise": 19.5073,
+        "x_time": 28
+      },
+      {
+        "y_noise": 19.786,
+        "x_time": 29
+      },
+      {
+        "y_noise": 15.3941,
+        "x_time": 30
+      },
+      {
+        "y_noise": 16.4676,
+        "x_time": 31
+      },
+      {
+        "y_noise": 19.1219,
+        "x_time": 32
+      },
+      {
+        "y_noise": 15.089,
+        "x_time": 33
+      },
+      {
+        "y_noise": 15.4039,
+        "x_time": 34
+      },
+      {
+        "y_noise": 19.1728,
+        "x_time": 35
+      },
+      {
+        "y_noise": 18.1679,
+        "x_time": 36
+      },
+      {
+        "y_noise": 18.3641,
+        "x_time": 37
+      },
+      {
+        "y_noise": 16.4229,
+        "x_time": 38
+      },
+      {
+        "y_noise": 17.3016,
+        "x_time": 39
+      },
+      {
+        "y_noise": 17.915,
+        "x_time": 40
+      },
+      {
+        "y_noise": 18.0369,
+        "x_time": 41
+      },
+      {
+        "y_noise": 16.5542,
+        "x_time": 42
+      },
+      {
+        "y_noise": 19.7565,
+        "x_time": 43
+      },
+      {
+        "y_noise": 18.4359,
+        "x_time": 44
+      },
+      {
+        "y_noise": 15.7647,
+        "x_time": 45
+      },
+      {
+        "y_noise": 19.1161,
+        "x_time": 46
+      },
+      {
+        "y_noise": 16.5552,
+        "x_time": 47
+      },
+      {
+        "y_noise": 18.1079,
+        "x_time": 48
+      },
+      {
+        "y_noise": 15.1254,
+        "x_time": 49
+      },
+      {
+        "y_noise": 16.9644,
+        "x_time": 50
+      },
+      {
+        "y_noise": 16.3543,
+        "x_time": 51
+      },
+      {
+        "y_noise": 16.3019,
+        "x_time": 52
+      },
+      {
+        "y_noise": 16.7986,
+        "x_time": 53
+      },
+      {
+        "y_noise": 16.4022,
+        "x_time": 54
+      },
+      {
+        "y_noise": 19.0888,
+        "x_time": 55
+      },
+      {
+        "y_noise": 19.1011,
+        "x_time": 56
+      },
+      {
+        "y_noise": 15.4488,
+        "x_time": 57
+      },
+      {
+        "y_noise": 17.7419,
+        "x_time": 58
+      },
+      {
+        "y_noise": 16.5713,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3da72fc5edcaf05f61",
+    "index": 28,
+    "current_status": "ok",
+    "country": "UK",
+    "region": "center",
+    "registered": "2015-08-29T12:42:32 -03:00",
+    "guid": "91d414e1-9848-4348-b7a2-41123a77bcfa",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "company": "AT&T",
+    "latitude": 7.596884,
+    "longitude": 165.902671,
+    "chart_data": [
+      {
+        "y_noise": 19.1794,
+        "x_time": 0
+      },
+      {
+        "y_noise": 16.9905,
+        "x_time": 1
+      },
+      {
+        "y_noise": 18.2619,
+        "x_time": 2
+      },
+      {
+        "y_noise": 17.1342,
+        "x_time": 3
+      },
+      {
+        "y_noise": 18.7421,
+        "x_time": 4
+      },
+      {
+        "y_noise": 16.5579,
+        "x_time": 5
+      },
+      {
+        "y_noise": 17.5258,
+        "x_time": 6
+      },
+      {
+        "y_noise": 15.5465,
+        "x_time": 7
+      },
+      {
+        "y_noise": 19.9422,
+        "x_time": 8
+      },
+      {
+        "y_noise": 16.148,
+        "x_time": 9
+      },
+      {
+        "y_noise": 16.4125,
+        "x_time": 10
+      },
+      {
+        "y_noise": 19.4412,
+        "x_time": 11
+      },
+      {
+        "y_noise": 17.8444,
+        "x_time": 12
+      },
+      {
+        "y_noise": 19.4948,
+        "x_time": 13
+      },
+      {
+        "y_noise": 18.7234,
+        "x_time": 14
+      },
+      {
+        "y_noise": 19.6745,
+        "x_time": 15
+      },
+      {
+        "y_noise": 19.4875,
+        "x_time": 16
+      },
+      {
+        "y_noise": 16.9993,
+        "x_time": 17
+      },
+      {
+        "y_noise": 15.6785,
+        "x_time": 18
+      },
+      {
+        "y_noise": 15.1753,
+        "x_time": 19
+      },
+      {
+        "y_noise": 17.3008,
+        "x_time": 20
+      },
+      {
+        "y_noise": 18.1282,
+        "x_time": 21
+      },
+      {
+        "y_noise": 17.7196,
+        "x_time": 22
+      },
+      {
+        "y_noise": 18.5758,
+        "x_time": 23
+      },
+      {
+        "y_noise": 17.6111,
+        "x_time": 24
+      },
+      {
+        "y_noise": 17.4524,
+        "x_time": 25
+      },
+      {
+        "y_noise": 16.2157,
+        "x_time": 26
+      },
+      {
+        "y_noise": 15.6948,
+        "x_time": 27
+      },
+      {
+        "y_noise": 19.8498,
+        "x_time": 28
+      },
+      {
+        "y_noise": 15.1897,
+        "x_time": 29
+      },
+      {
+        "y_noise": 16.0257,
+        "x_time": 30
+      },
+      {
+        "y_noise": 15.3944,
+        "x_time": 31
+      },
+      {
+        "y_noise": 17.311,
+        "x_time": 32
+      },
+      {
+        "y_noise": 17.3442,
+        "x_time": 33
+      },
+      {
+        "y_noise": 15.5609,
+        "x_time": 34
+      },
+      {
+        "y_noise": 19.361,
+        "x_time": 35
+      },
+      {
+        "y_noise": 15.5629,
+        "x_time": 36
+      },
+      {
+        "y_noise": 19.6492,
+        "x_time": 37
+      },
+      {
+        "y_noise": 17.7852,
+        "x_time": 38
+      },
+      {
+        "y_noise": 16.305,
+        "x_time": 39
+      },
+      {
+        "y_noise": 17.5593,
+        "x_time": 40
+      },
+      {
+        "y_noise": 19.1846,
+        "x_time": 41
+      },
+      {
+        "y_noise": 15.944,
+        "x_time": 42
+      },
+      {
+        "y_noise": 18.0755,
+        "x_time": 43
+      },
+      {
+        "y_noise": 17.3992,
+        "x_time": 44
+      },
+      {
+        "y_noise": 17.9082,
+        "x_time": 45
+      },
+      {
+        "y_noise": 15.8091,
+        "x_time": 46
+      },
+      {
+        "y_noise": 19.9023,
+        "x_time": 47
+      },
+      {
+        "y_noise": 17.6518,
+        "x_time": 48
+      },
+      {
+        "y_noise": 16.6892,
+        "x_time": 49
+      },
+      {
+        "y_noise": 19.3641,
+        "x_time": 50
+      },
+      {
+        "y_noise": 16.4123,
+        "x_time": 51
+      },
+      {
+        "y_noise": 16.887,
+        "x_time": 52
+      },
+      {
+        "y_noise": 15.8387,
+        "x_time": 53
+      },
+      {
+        "y_noise": 18.8622,
+        "x_time": 54
+      },
+      {
+        "y_noise": 16.9892,
+        "x_time": 55
+      },
+      {
+        "y_noise": 19.2739,
+        "x_time": 56
+      },
+      {
+        "y_noise": 15.9034,
+        "x_time": 57
+      },
+      {
+        "y_noise": 19.635,
+        "x_time": 58
+      },
+      {
+        "y_noise": 16.6771,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3d33cac147ce480ac2",
+    "index": 29,
+    "current_status": "error",
+    "country": "CA",
+    "region": "north",
+    "registered": "2015-06-24T01:04:47 -03:00",
+    "guid": "9a03e324-f23c-4cca-a022-327b734081f4",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "company": "Verizon",
+    "latitude": 84.07718,
+    "longitude": 42.351282,
+    "chart_data": [
+      {
+        "y_noise": 16.1283,
+        "x_time": 0
+      },
+      {
+        "y_noise": 15.315,
+        "x_time": 1
+      },
+      {
+        "y_noise": 15.8765,
+        "x_time": 2
+      },
+      {
+        "y_noise": 19.5137,
+        "x_time": 3
+      },
+      {
+        "y_noise": 19.8417,
+        "x_time": 4
+      },
+      {
+        "y_noise": 19.2253,
+        "x_time": 5
+      },
+      {
+        "y_noise": 19.4122,
+        "x_time": 6
+      },
+      {
+        "y_noise": 19.1784,
+        "x_time": 7
+      },
+      {
+        "y_noise": 19.516,
+        "x_time": 8
+      },
+      {
+        "y_noise": 16.8455,
+        "x_time": 9
+      },
+      {
+        "y_noise": 17.4083,
+        "x_time": 10
+      },
+      {
+        "y_noise": 15.7479,
+        "x_time": 11
+      },
+      {
+        "y_noise": 17.2375,
+        "x_time": 12
+      },
+      {
+        "y_noise": 16.7264,
+        "x_time": 13
+      },
+      {
+        "y_noise": 15.361,
+        "x_time": 14
+      },
+      {
+        "y_noise": 15.5156,
+        "x_time": 15
+      },
+      {
+        "y_noise": 18.4404,
+        "x_time": 16
+      },
+      {
+        "y_noise": 16.8981,
+        "x_time": 17
+      },
+      {
+        "y_noise": 15.8557,
+        "x_time": 18
+      },
+      {
+        "y_noise": 15.7914,
+        "x_time": 19
+      },
+      {
+        "y_noise": 16.0628,
+        "x_time": 20
+      },
+      {
+        "y_noise": 19.9516,
+        "x_time": 21
+      },
+      {
+        "y_noise": 15.1425,
+        "x_time": 22
+      },
+      {
+        "y_noise": 19.7418,
+        "x_time": 23
+      },
+      {
+        "y_noise": 17.9045,
+        "x_time": 24
+      },
+      {
+        "y_noise": 19.2222,
+        "x_time": 25
+      },
+      {
+        "y_noise": 17.9963,
+        "x_time": 26
+      },
+      {
+        "y_noise": 18.042,
+        "x_time": 27
+      },
+      {
+        "y_noise": 17.3648,
+        "x_time": 28
+      },
+      {
+        "y_noise": 17.1686,
+        "x_time": 29
+      },
+      {
+        "y_noise": 18.366,
+        "x_time": 30
+      },
+      {
+        "y_noise": 19.5058,
+        "x_time": 31
+      },
+      {
+        "y_noise": 17.9821,
+        "x_time": 32
+      },
+      {
+        "y_noise": 17.4341,
+        "x_time": 33
+      },
+      {
+        "y_noise": 16.3505,
+        "x_time": 34
+      },
+      {
+        "y_noise": 17.8242,
+        "x_time": 35
+      },
+      {
+        "y_noise": 19.9756,
+        "x_time": 36
+      },
+      {
+        "y_noise": 18.247,
+        "x_time": 37
+      },
+      {
+        "y_noise": 18.6857,
+        "x_time": 38
+      },
+      {
+        "y_noise": 19.7948,
+        "x_time": 39
+      },
+      {
+        "y_noise": 18.7037,
+        "x_time": 40
+      },
+      {
+        "y_noise": 18.8258,
+        "x_time": 41
+      },
+      {
+        "y_noise": 15.4221,
+        "x_time": 42
+      },
+      {
+        "y_noise": 17.5888,
+        "x_time": 43
+      },
+      {
+        "y_noise": 15.9472,
+        "x_time": 44
+      },
+      {
+        "y_noise": 19.5512,
+        "x_time": 45
+      },
+      {
+        "y_noise": 15.4427,
+        "x_time": 46
+      },
+      {
+        "y_noise": 18.1632,
+        "x_time": 47
+      },
+      {
+        "y_noise": 19.2873,
+        "x_time": 48
+      },
+      {
+        "y_noise": 18.1565,
+        "x_time": 49
+      },
+      {
+        "y_noise": 17.9184,
+        "x_time": 50
+      },
+      {
+        "y_noise": 19.3135,
+        "x_time": 51
+      },
+      {
+        "y_noise": 15.0849,
+        "x_time": 52
+      },
+      {
+        "y_noise": 17.0351,
+        "x_time": 53
+      },
+      {
+        "y_noise": 16.8496,
+        "x_time": 54
+      },
+      {
+        "y_noise": 16.5229,
+        "x_time": 55
+      },
+      {
+        "y_noise": 15.614,
+        "x_time": 56
+      },
+      {
+        "y_noise": 16.5385,
+        "x_time": 57
+      },
+      {
+        "y_noise": 17.268,
+        "x_time": 58
+      },
+      {
+        "y_noise": 15.8002,
+        "x_time": 59
+      }
+    ]
+  },
+  {
+    "_id": "56ca2d3dfc352e0662cfd3ce",
+    "index": 30,
+    "current_status": "error",
+    "country": "UK",
+    "region": "north",
+    "registered": "2015-05-19T03:33:17 -03:00",
+    "guid": "4716059c-264e-4656-90d7-615b80e36be0",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "company": "Cellcom",
+    "latitude": -57.289865,
+    "longitude": 75.648501,
+    "chart_data": [
+      {
+        "y_noise": 15.5787,
+        "x_time": 0
+      },
+      {
+        "y_noise": 15.7187,
+        "x_time": 1
+      },
+      {
+        "y_noise": 15.9188,
+        "x_time": 2
+      },
+      {
+        "y_noise": 17.0398,
+        "x_time": 3
+      },
+      {
+        "y_noise": 17.193,
+        "x_time": 4
+      },
+      {
+        "y_noise": 19.2591,
+        "x_time": 5
+      },
+      {
+        "y_noise": 18.7531,
+        "x_time": 6
+      },
+      {
+        "y_noise": 15.679,
+        "x_time": 7
+      },
+      {
+        "y_noise": 15.115,
+        "x_time": 8
+      },
+      {
+        "y_noise": 18.5296,
+        "x_time": 9
+      },
+      {
+        "y_noise": 19.3249,
+        "x_time": 10
+      },
+      {
+        "y_noise": 19.5267,
+        "x_time": 11
+      },
+      {
+        "y_noise": 15.3266,
+        "x_time": 12
+      },
+      {
+        "y_noise": 15.8996,
+        "x_time": 13
+      },
+      {
+        "y_noise": 15.8017,
+        "x_time": 14
+      },
+      {
+        "y_noise": 15.9184,
+        "x_time": 15
+      },
+      {
+        "y_noise": 15.7006,
+        "x_time": 16
+      },
+      {
+        "y_noise": 18.1084,
+        "x_time": 17
+      },
+      {
+        "y_noise": 15.0352,
+        "x_time": 18
+      },
+      {
+        "y_noise": 15.3413,
+        "x_time": 19
+      },
+      {
+        "y_noise": 15.4947,
+        "x_time": 20
+      },
+      {
+        "y_noise": 15.3224,
+        "x_time": 21
+      },
+      {
+        "y_noise": 19.4774,
+        "x_time": 22
+      },
+      {
+        "y_noise": 19.9133,
+        "x_time": 23
+      },
+      {
+        "y_noise": 19.6811,
+        "x_time": 24
+      },
+      {
+        "y_noise": 18.8024,
+        "x_time": 25
+      },
+      {
+        "y_noise": 15.1075,
+        "x_time": 26
+      },
+      {
+        "y_noise": 19.2381,
+        "x_time": 27
+      },
+      {
+        "y_noise": 15.9265,
+        "x_time": 28
+      },
+      {
+        "y_noise": 17.4575,
+        "x_time": 29
+      },
+      {
+        "y_noise": 17.5722,
+        "x_time": 30
+      },
+      {
+        "y_noise": 16.9746,
+        "x_time": 31
+      },
+      {
+        "y_noise": 16.0113,
+        "x_time": 32
+      },
+      {
+        "y_noise": 15.385,
+        "x_time": 33
+      },
+      {
+        "y_noise": 18.1108,
+        "x_time": 34
+      },
+      {
+        "y_noise": 17.4194,
+        "x_time": 35
+      },
+      {
+        "y_noise": 17.1027,
+        "x_time": 36
+      },
+      {
+        "y_noise": 19.8801,
+        "x_time": 37
+      },
+      {
+        "y_noise": 15.9944,
+        "x_time": 38
+      },
+      {
+        "y_noise": 16.8373,
+        "x_time": 39
+      },
+      {
+        "y_noise": 15.2841,
+        "x_time": 40
+      },
+      {
+        "y_noise": 17.305,
+        "x_time": 41
+      },
+      {
+        "y_noise": 19.3309,
+        "x_time": 42
+      },
+      {
+        "y_noise": 18.2045,
+        "x_time": 43
+      },
+      {
+        "y_noise": 19.0299,
+        "x_time": 44
+      },
+      {
+        "y_noise": 15.3048,
+        "x_time": 45
+      },
+      {
+        "y_noise": 15.8623,
+        "x_time": 46
+      },
+      {
+        "y_noise": 18.825,
+        "x_time": 47
+      },
+      {
+        "y_noise": 16.0566,
+        "x_time": 48
+      },
+      {
+        "y_noise": 17.9885,
+        "x_time": 49
+      },
+      {
+        "y_noise": 18.7534,
+        "x_time": 50
+      },
+      {
+        "y_noise": 15.8318,
+        "x_time": 51
+      },
+      {
+        "y_noise": 19.7137,
+        "x_time": 52
+      },
+      {
+        "y_noise": 17.3966,
+        "x_time": 53
+      },
+      {
+        "y_noise": 15.7294,
+        "x_time": 54
+      },
+      {
+        "y_noise": 18.3123,
+        "x_time": 55
+      },
+      {
+        "y_noise": 17.0772,
+        "x_time": 56
+      },
+      {
+        "y_noise": 16.1978,
+        "x_time": 57
+      },
+      {
+        "y_noise": 18.706,
+        "x_time": 58
+      },
+      {
+        "y_noise": 15.651,
+        "x_time": 59
+      }
+    ]
+  }
+]
