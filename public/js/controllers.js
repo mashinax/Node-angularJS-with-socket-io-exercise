@@ -1,4 +1,4 @@
-var myApp = angular.module('myApp', []);
+var myApp = angular.module('myApp', ['angular.filter']);
 
 myApp.controller('MyController', function MyController($scope, $http) {
    $http.get('js/small_data.json').success(function(data) {
