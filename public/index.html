@@ -23,11 +23,11 @@
     <script src="lib/jquery.tablesorter.min.js" type="text/javascript"></script>
     <script src="lib/jquery.equalHeight.js" type="text/javascript"></script>
 
+    <script src="lib/metro.js"></script>
+    
     <link href="css/metro.css" rel="stylesheet">
     <link href="css/metro-icons.css" rel="stylesheet">
     <link href="css/metro-responsive.css" rel="stylesheet">
-
-    <script src="lib/metro.js"></script>
 
     <!-- socket.io -->
     <script src="/socket.io/socket.io.js"></script>
@@ -72,77 +72,13 @@
             <h5>TreeView</h5>
             <div class="treeview" data-role="treeview">
                 <ul>
-                    <li class="node" data-mode="checkbox" ng-repeat="item in nodebox | unique: 'country'" data-name="c{{$index + 1}}">
+                    <li class="node" data-mode="checkbox" ng-repeat="item in nodebox" data-name="c{{$index + 1}}">
                         <span class="leaf"><span class="mif-tree"></span> {{ item.country }} Network</span>
                         <span class="node-toggle"></span>
-                        <ul>
-                            <li data-mode="checkbox" data-name="c1"><span class="leaf"><span class="icon mif-database"></span> DB-O</span>
-                            </li>
-                            <li data-mode="checkbox" data-name="c2"><span class="leaf"><span class="icon mif-database"></span> DB-O</span>
-                            </li>
-                            <li class="node" data-mode="checkbox" data-name="c3">
-                                <span class="leaf"><span class="icon mif-database"></span> DB-A</span>
-                                <span class="node-toggle"></span>
-                                <ul>
-                                    <li data-mode="checkbox" data-name="c3_1"><span class="leaf"><span class="icon mif-tablet"></span> BOX-1</span>
-                                    </li>
-                                    <li data-mode="checkbox" data-name="c3_2"><span class="leaf"><span class="icon mif-tablet"></span> BOX-2</span>
-                                    </li>
-                                    <li data-mode="checkbox" data-name="c3_3"><span class="leaf"><span class="icon mif-tablet"></span> BOX-2</span>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="node collapsed" data-mode="checkbox" data-name="c4">
-                                <span class="leaf"><span class="icon mif-database"></span> DB-B</span>
-                                <span class="node-toggle"></span>
-                                <ul>
-                                    <li data-mode="checkbox" data-name="c4_1"><span class="leaf"><span class="icon mif-tablet"></span> BOX-1</span>
-                                    </li>
-                                    <li data-mode="checkbox" data-name="c4_2"><span class="leaf"><span class="icon mif-tablet"></span> BOX-2</span>
-                                    </li>
-                                    <li data-mode="checkbox" data-name="c4_2"><span class="leaf"><span class="icon mif-tablet"></span> BOX-3</span>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="node" data-mode="checkbox" data-name="c5">
-                                <span class="leaf"><span class="icon mif-database"></span> DB-C</span>
-                                <span class="node-toggle"></span>
-                                <ul>
-                                    <li data-mode="checkbox" data-name="c5_1"><span class="leaf"><span class="icon mif-tablet"></span> BOX-1</span>
-                                    </li>
-                                    <li data-mode="checkbox" data-name="c5_2"><span class="leaf"><span class="icon mif-tablet"></span> BOX-2</span>
-                                    </li>
-                                    <li data-mode="checkbox" data-name="c5_3"><span class="leaf"><span class="icon mif-tablet"></span> BOX-3</span>
-                                    </li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="node" data-mode="checkbox" data-name="c0">
-                        <span class="leaf"><span class="mif-tree"></span> CA Network</span>
-                        <span class="node-toggle"></span>
-                        <ul>
-                            <li class="node" data-mode="checkbox" data-name="c1">
-                                <span class="leaf"><span class="icon mif-database"></span> DB-A</span>
-                                <span class="node-toggle"></span>
-                                <ul>
-                                    <li data-mode="checkbox" data-name="c1_1"><span class="leaf"><span class="icon mif-tablet"></span> BOX-1</span>
-                                    </li>
-                                    <li data-mode="checkbox" data-name="c1_2"><span class="leaf"><span class="icon mif-tablet"></span> BOX-2</span>
-                                    </li>
-                                    <li data-mode="checkbox" data-name="c1_3"><span class="leaf"><span class="icon mif-tablet"></span> BOX-3</span>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="node collapsed" data-mode="checkbox" data-name="c2">
-                                <span class="leaf"><span class="icon mif-database"></span> DB-B</span>
-                                <span class="node-toggle"></span>
-                                <ul>
-                                    <li data-mode="checkbox" data-name="c2_1"><span class="leaf"><span class="icon mif-tablet"></span> BOX-1</span>
-                                    </li>
-                                    <li data-mode="checkbox" data-name="c2_2"><span class="leaf"><span class="icon mif-tablet"></span> BOX-2</span>
-                                    </li>
-                                    <li data-mode="checkbox" data-name="c2_3"><span class="leaf"><span class="icon mif-tablet"></span> BOX-3</span>
+                        <ul ng-if="item.country_regions">
+                            <li data-mode="checkbox" data-name="c1" ng-repeat="item in item.country_regions"><span class="leaf"><span class="icon mif-database"></span> {{item.region_name}}</span>
+                            <ul ng-if="item.boxes">
+                                    <li data-mode="checkbox" data-name="c3_1" ng-repeat="item in item.boxes"><span class="leaf"><span class="icon mif-tablet"></span> BOX-{{item.id}}</span>
                                     </li>
                                 </ul>
                             </li>
